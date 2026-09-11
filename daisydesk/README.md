@@ -1,0 +1,144 @@
+# 🌼 DaisyDesk — Small-Business Client Management SaaS
+
+> **Self-Directed Concept Project** — DaisyDesk is fictional. The business, product, pricing, dashboard data, customers, and outcomes shown here are portfolio concepts, not claims about a real client or live SaaS product.
+
+**Website type:** B2B / small-business SaaS marketing website  
+**Role:** Web Designer + Front-End Implementation  
+**Stack:** Next.js · React · TypeScript · CSS  
+**Status:** Interactive coded concept  
+🌐 **Live Site:** Coming Soon  
+🎨 **Design:** Coming Soon
+
+## 🌷 Concept
+
+**DaisyDesk** is a cheerful client-management platform for freelancers and small service businesses. Its fictional product brings leads, projects, appointments, proposals, invoices, and follow-ups into one approachable workspace.
+
+The design challenge is to make capable business software feel **clear and trustworthy without becoming cold, corporate, or visually generic**.
+
+## 💭 The Design Problem
+
+Many small-business owners need structure but do not identify with enterprise software. DaisyDesk explores how a SaaS marketing website can communicate practical depth while preserving warmth, personality, and a low-stress first impression.
+
+This is a design hypothesis, not a finding from original user research.
+
+## 🎯 Goals
+
+- Communicate the product value within the first hero viewport.
+- Make multiple business functions feel like one understandable workflow.
+- Use a distinctive feminine/cozy identity without compromising legibility or professional credibility.
+- Create conversion paths for exploration and pricing without aggressive dark patterns.
+- Build the concept as a real responsive site rather than a static mockup.
+
+## 👥 Intended Audience
+
+The concept is designed around plausible needs of solo service providers and very small teams: photographers, designers, beauty professionals, consultants, event professionals, and other appointment/project-based businesses.
+
+## 🗺 Information Architecture
+
+The implemented homepage currently includes:
+
+1. Hero + interactive product preview
+2. Product capability strip
+3. Feature/value cards
+4. Four-step workflow
+5. Pricing concept with monthly/yearly interaction
+6. Clear concept disclosure
+
+**Planned expansion:** Features · Solutions · Pricing · Resources · Customer Story · About · Demo/Signup.
+
+## 🎨 Art Direction
+
+**Personality:** sunny · capable · friendly · organized · encouraging  
+**Palette:** butter yellow · petal pink · soft mint · warm cream · cocoa ink  
+**Type direction:** expressive editorial serif for emotional hierarchy + clean system sans-serif for product clarity  
+**Shape language:** rounded cards, soft pills, floral micro-motifs, generous whitespace  
+**Motion:** subtle and optional; interaction should never depend on animation
+
+## 🧩 Design System
+
+### Core tokens
+- Cream: `#fffaf0`
+- Paper: `#fffdf7`
+- Butter: `#f6d978`
+- Petal: `#f4b8c7`
+- Mint: `#bcdcc9`
+- Ink: `#3f3a35`
+
+### Reusable patterns
+- Pill CTAs
+- Floral brandmark
+- Rounded information cards
+- Tabbed product preview
+- Statistic cards
+- Workflow rows
+- Pricing cards and billing toggle
+
+## ✨ Interactive Prototype Details
+
+The current coded homepage includes:
+- A keyboard-operable product-preview tab set
+- Live content changes between **Today / Clients / Money**
+- Monthly/yearly pricing-state toggle
+- Responsive in-page navigation
+- Reduced-motion support
+
+The dashboard numbers and prices are explicitly concept data.
+
+## ♿ Accessibility Approach
+
+- Semantic landmarks and heading order
+- Visible native focus behavior retained
+- Real buttons for interactive state changes
+- `aria-selected` on product-preview tabs
+- Text remains available without hover
+- Layout collapses cleanly for narrow screens
+- `prefers-reduced-motion` respected
+- Decorative floral marks are hidden from assistive technology where appropriate
+
+Target: **WCAG 2.2-informed AA design**, to be verified with formal checks before final publication.
+
+## 💌 Conversion Thinking
+
+Current hypotheses to validate in a real engagement:
+- A product preview in the hero may explain value faster than an abstract lifestyle illustration.
+- Mapping features to the full client lifecycle may reduce perceived complexity.
+- Plain-language pricing tiers may feel more approachable to very small businesses.
+- Warm visual identity can differentiate the product without weakening professional trust if hierarchy remains disciplined.
+
+No conversion lift is claimed.
+
+## 💻 Run Locally
+
+```bash
+cd daisydesk
+npm install
+npm run dev
+```
+
+Open `http://localhost:3001`.
+
+Quality commands:
+
+```bash
+npm run lint
+npm run typecheck
+npm run build
+```
+
+## 🖼 Visuals To Add
+
+- [ ] Final browser hero mockup using the coded site
+- [ ] Full desktop homepage capture
+- [ ] Mobile homepage capture
+- [ ] Expanded product/dashboard screens
+- [ ] DaisyDesk component/token board
+- [ ] Pricing interaction capture
+- [ ] Final Figma design link
+- [ ] Live deployment link
+
+## 🌱 Next Iteration
+
+1. Expand from one-page marketing site to multi-page SaaS site.
+2. Design a fuller fictional product UI for richer product storytelling.
+3. Run accessibility and Lighthouse audits after deployment.
+4. Conduct real usability sessions if the project is developed beyond a visual/web-design case study.
