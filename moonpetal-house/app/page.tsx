@@ -77,7 +77,7 @@ export default function Home() {
 
       <section className="rooms">
         <article><div className="room-art room-one"><span>01</span></div><p className="eyebrow">Garden Room</p><h3>The Fern</h3><p>Quiet greens, linen layers and a window seat turned toward the old orchard.</p><a href="#book">View room →</a></article>
-        <article><div className="room-art room-two"><span>02</span></div><p className="eyebrow">House Suite</p><h3>The Blue Moon</h3><p>A deep-blue sitting room, soaking bath and the house's widest view of the night garden.</p><a href="#book">View suite →</a></article>
+        <article><div className="room-art room-two"><span>02</span></div><p className="eyebrow">House Suite</p><h3>The Blue Moon</h3><p>A deep-blue sitting room, soaking bath and the house&apos;s widest view of the night garden.</p><a href="#book">View suite →</a></article>
         <article><div className="room-art room-three"><span>03</span></div><p className="eyebrow">Private Cottage</p><h3>The Dahlia</h3><p>A tiny cottage at the garden edge with its own terrace and outdoor copper tub.</p><a href="#book">View cottage →</a></article>
       </section>
 
