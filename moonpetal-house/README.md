@@ -6,8 +6,8 @@
 **Role:** Web Designer + Front-End Implementation  
 **Stack:** Next.js · React · TypeScript · CSS  
 **Status:** Interactive coded concept  
-🌐 **Live Site:** Coming Soon  
-🎨 **Design:** Coming Soon
+🌐 **Live Site:** [moonpetal-house.vercel.app](https://moonpetal-house.vercel.app)  
+🎨 **Design:** [Figma presentation board](https://www.figma.com/design/V7zFfK9MJRNt9j8uOhuamk?node-id=2-2)
 
 ## 🌷 Concept
 
@@ -47,7 +47,7 @@ Implemented homepage:
 7. Journal/editorial preview
 8. Concept disclosure
 
-**Planned expansion:** Rooms · Individual Room · Wellness · Dining · Experiences · Journal · Events · Location · Contact · Booking handoff.
+**Implemented expansion:** Rooms · Individual Room · Wellness · Dining · Experiences · Journal · Events · Location · Contact · Booking handoff.
 
 ## 🎨 Art Direction
 
@@ -111,22 +111,26 @@ npm run dev
 
 Open `http://localhost:3003`.
 
-## 🖼 Visuals To Add
+## 🖼 Portfolio Visuals
 
-- [ ] Original concept property hero artwork/photography
-- [ ] Desktop homepage mockup using implemented interface
-- [ ] Mobile booking-flow mockup
-- [ ] Individual room page
-- [ ] Wellness page
-- [ ] Dining page
-- [ ] Moonpetal typography/color/component board
-- [ ] Motion capture with reduced-motion comparison
-- [ ] Final design link
-- [ ] Live deployment
+![Project showcase cover](../assets/moonpetal-house-cover.svg)
+
+- ✅ Permanent GitHub hero artwork
+- ✅ Figma presentation board
+- ✅ Live production deployment
+- ✅ Responsive multi-page coded experience
+- ✅ Social sharing preview artwork
+
+## ✅ Production QA
+
+- GitHub Actions: install ✅ · lint ✅ · TypeScript ✅ · production build ✅
+- Production homepage verified ✅
+- Key deeper routes verified ✅
+- Responsive CSS breakpoints implemented ✅
+- Reduced-motion handling implemented ✅
+- Sitemap + robots metadata implemented ✅
+- Open Graph / social metadata implemented ✅
 
 ## 🌱 Next Iteration
 
-1. Expand into the full hospitality page set.
-2. Replace abstract coded artwork with original concept imagery.
-3. Add a detailed booking handoff flow without simulating real reservations.
-4. Perform accessibility, responsive, SEO-metadata, and Lighthouse QA after deployment.
+If developed beyond a portfolio concept, the next meaningful step would be real property photography/content and validation of booking/accessibility needs with actual guests.
