@@ -169,6 +169,12 @@ Each showcase project has its own `package.json` and app root, production deploy
 
 ---
 
+## ✅ Final QA
+
+[View the final recruiter/client and production QA review](./docs/FINAL_REVIEW.md).
+
+---
+
 ## 💌 Work With Me
 
 I am currently seeking a **full-time remote Web Designer position** and am also available for **short-term freelance website projects**.
