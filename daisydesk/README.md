@@ -29,6 +29,17 @@ This is a design hypothesis, not a finding from original user research.
 - Create conversion paths for exploration and pricing without aggressive dark patterns.
 - Build the concept as a real responsive site rather than a static mockup.
 
+## 📈 Business Goal → Design Decision → Intended Impact
+
+| Business goal | Design decision | Intended business impact |
+|---|---|---|
+| Help visitors understand the product quickly | Put an interactive product preview in the hero instead of relying on abstract marketing copy | Reduce initial confusion and encourage deeper product exploration |
+| Make a multi-feature product feel manageable | Organize features around the client lifecycle: leads, projects, appointments, proposals, invoices, and follow-ups | Help very small businesses recognize their own workflow and product fit |
+| Make pricing feel approachable | Use plain-language tiers, clear inclusions, and a monthly/yearly toggle | Reduce pricing uncertainty and help visitors compare options without sales pressure |
+| Support trust across devices and abilities | Use semantic structure, keyboard-operable controls, responsive layouts, visible focus states, and reduced-motion support | Make the marketing experience usable by more prospective customers and reinforce product credibility |
+
+These are **intended outcomes and hypotheses**, not measured conversion results.
+
 ## 👥 Intended Audience
 
 The concept is designed around plausible needs of solo service providers and very small teams: photographers, designers, beauty professionals, consultants, event professionals, and other appointment/project-based businesses.
