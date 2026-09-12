@@ -5,7 +5,46 @@ on:
     branches: [main]
   pull_request:
 
+permissions:
+  contents: write
+
 jobs:
+  lockfiles:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate missing npm lockfiles
+        shell: bash
+        run: |
+          changed=0
+          for project in daisydesk fawn-and-finch moonpetal-house; do
+            if [ ! -f "$project/package-lock.json" ]; then
+              (cd "$project" && npm install --package-lock-only --ignore-scripts --no-audit --no-fund)
+              changed=1
+            fi
+          done
+          echo "changed=$changed" >> "$GITHUB_ENV"
+
+      - name: Commit lockfiles
+        if: env.changed == '1'
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add daisydesk/package-lock.json fawn-and-finch/package-lock.json moonpetal-house/package-lock.json
+          git commit -m "Add reproducible npm lockfiles [skip ci]"
+          git push origin HEAD:main
+
   quality:
     runs-on: ubuntu-latest
     strategy:
