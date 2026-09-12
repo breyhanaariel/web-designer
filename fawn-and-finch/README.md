@@ -27,6 +27,18 @@ Animal-inspired fashion can quickly become costume-like or juvenile. This concep
 - Give mobile commerce equal design attention.
 - Demonstrate CRO thinking without inventing sales results.
 
+## 📈 Business Goal → Design Decision → Intended Impact
+
+| Business goal | Design decision | Intended business impact |
+|---|---|---|
+| Help shoppers find relevant products faster | Add clear category filtering and predictable product-card information | Reduce discovery friction and move more visitors toward product-detail pages |
+| Increase confidence before purchase | Place materials, shipping, returns, and trust information close to commerce content | Reduce uncertainty that can interrupt purchase consideration |
+| Support longer consideration cycles | Add save/favorite behavior alongside product browsing | Give shoppers an easy way to remember products and return to considered items |
+| Protect mobile conversion | Keep product controls, hierarchy, and shopping actions clear at narrow widths | Reduce mobile shopping friction without sacrificing the editorial brand experience |
+| Build desirability without hiding utility | Pair expressive editorial storytelling with conventional commerce controls | Strengthen brand perception while preserving obvious paths to browse and buy |
+
+These are **intended business outcomes and CRO hypotheses**, not measured sales or conversion results.
+
 ## 👥 Intended Audience
 
 A style-conscious shopper attracted to romantic accessories, collectible details, botanical/animal motifs, giftable objects, and independent boutique branding.
