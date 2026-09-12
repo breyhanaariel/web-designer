@@ -4,11 +4,24 @@
 
 I design and build polished, accessible websites that pair **distinctive visual direction** with clear content hierarchy, responsive behavior, conversion-minded UX, and production-ready front-end implementation.
 
-🕓 **Open to full-time remote web design roles**  
-💌 **Available for short-term freelance projects**
+💌 **Available For Freelance**  
+🕓 **Open to Remote Contract Opportunities**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianna-dickenson-9555515b)
-[![Gmail](https://img.shields.io/badge/Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:breyhanadickenson@gmail.com?subject=Interested%20in%20Working%20With%20You)
+[![Gmail](https://img.shields.io/badge/Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:breyhanadickenson@gmail.com?subject=Interested%20in%20a%20Web%20Design%20Project)
+
+---
+
+## 💌 Freelance Services
+
+Available for focused short-term website projects including:
+
+- Responsive marketing and small-business websites
+- Landing pages and campaign pages
+- E-commerce storefront and product-page design
+- Website redesigns and visual refreshes
+- Design systems and reusable web components
+- Accessibility and responsive-design cleanup
 
 ---
 
@@ -102,20 +115,6 @@ A dreamy countryside retreat built around restorative stays, garden dining, well
 
 ---
 
-## 💌 Freelance Services
-
-I am available for focused short-term projects including:
-
-- Responsive marketing websites
-- Landing pages and campaign pages
-- Small-business website design
-- E-commerce storefront and product-page design
-- Website redesigns and visual refreshes
-- Design systems and reusable web components
-- Accessibility and responsive-design cleanup
-
----
-
 ## 🛠 Tools & Implementation
 
 **Design & Prototyping**  
@@ -140,12 +139,14 @@ Git · GitHub · responsive QA · accessibility review · content/spec documenta
 
 ---
 
-## 🔗 Related Portfolios
+## 🌸 Explore My Work
 
-My work is separated by discipline so each portfolio can tell a focused story:
+My portfolio is intentionally separated by specialty so each discipline can tell a focused story while still showing how my skills connect.
 
-- 🎀 [UI/UX Designer](https://github.com/breyhanaariel/ui-ux-designer) — product design, research, flows, systems, and complex interaction design
-- 💻 [Front-End Developer](https://github.com/breyhanaariel/front-end-developer) — application engineering, APIs, state management, testing, and implementation
+- 🎀 [UI/UX Designer](https://github.com/breyhanaariel/ui-ux-designer) — product design, research, flows, design systems, prototyping, and complex interaction design
+- 💻 [Front-End Developer](https://github.com/breyhanaariel/front-end-developer) — React, Next.js, TypeScript, APIs, state management, testing, and accessible implementation
+- 🌐 **Web Designer** — responsive websites and brand-led digital experiences for short-term client projects
+- 🎨 [Graphic Designer](https://github.com/breyhanaariel/graphic-designer) — brand identity, campaign design, marketing assets, print, and motion
 
 ---
 
@@ -177,8 +178,12 @@ Each showcase project has its own `package.json` and app root, production deploy
 
 ## 💌 Work With Me
 
-I am currently seeking a **full-time remote Web Designer position** and am also available for **short-term freelance website projects**.
+### 💌 Available For Freelance
+I am available for **short-term website projects** spanning strategy, visual design, responsive UX, and front-end implementation. I can take a focused website engagement from design direction through a polished working build.
+
+### 🕓 Open to Remote Contract Opportunities
+I am also open to **remote contract web-design engagements** where a team needs focused design and implementation support for a defined project or period.
 
 If you need a designer who can pair expressive visual direction with responsive, accessible implementation, I would love to connect.
 
-[LinkedIn](https://www.linkedin.com/in/brianna-dickenson-9555515b) · [Email Me](mailto:breyhanadickenson@gmail.com?subject=Interested%20in%20Working%20With%20You)
+[LinkedIn](https://www.linkedin.com/in/brianna-dickenson-9555515b) · [Email Me](mailto:breyhanadickenson@gmail.com?subject=Interested%20in%20a%20Web%20Design%20Project)
