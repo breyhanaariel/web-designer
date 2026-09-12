@@ -1,11 +1,3 @@
-import type { Metadata } from "next";
-import "./globals.css";
-
-export const metadata: Metadata = {
-  title: "Moonpetal House | Stay somewhere softer",
-  description: "A self-directed luxury boutique hotel and retreat web design concept."
-};
-
-export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
-  return <html lang="en"><body>{children}</body></html>;
-}
+import type { Metadata } from "next"; import "./globals.css";
+export const metadata:Metadata={metadataBase:new URL("https://moonpetal-house.vercel.app"),title:{default:"Moonpetal House | Stay somewhere softer",template:"%s | Moonpetal House"},description:"A self-directed luxury boutique hotel and retreat web design concept.",openGraph:{title:"Moonpetal House",description:"Stay somewhere softer.",images:["/social-preview.svg"]},twitter:{card:"summary_large_image",images:["/social-preview.svg"]}};
+export default function RootLayout({children}:Readonly<{children:React.ReactNode}>){return <html lang="en"><body>{children}</body></html>}

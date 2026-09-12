@@ -47,11 +47,11 @@ export default function Home() {
           DaisyDesk
         </a>
         <nav aria-label="Primary navigation">
-          <a href="#features">Features</a>
-          <a href="#workflow">How it works</a>
-          <a href="#pricing">Pricing</a>
+          <a href="/features">Features</a>
+          <a href="/solutions">Solutions</a>
+          <a href="/pricing">Pricing</a>
         </nav>
-        <a className="button button-small" href="#pricing">Start organizing</a>
+        <a className="button button-small" href="/demo">Start organizing</a>
       </header>
 
       <section className="hero" id="top">
@@ -62,8 +62,8 @@ export default function Home() {
             DaisyDesk brings leads, projects, appointments, proposals and invoices into one calm workspace—so the admin never gets louder than the work you love.
           </p>
           <div className="hero-actions">
-            <a className="button" href="#workflow">Explore the workspace</a>
-            <a className="text-link" href="#features">See what is inside →</a>
+            <a className="button" href="/features">Explore the workspace</a>
+            <a className="text-link" href="/features">See what is inside →</a>
           </div>
           <p className="fine-print">Concept website • interactive demo data • no credit card</p>
         </div>

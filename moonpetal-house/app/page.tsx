@@ -24,8 +24,8 @@ export default function Home() {
     <main id="top">
       <header>
         <a className="mark" href="#top" aria-label="Moonpetal House home"><span>☾</span> MOONPETAL HOUSE</a>
-        <nav aria-label="Primary navigation"><a href="#stay">Stay</a><a href="#rituals">Rituals</a><a href="#table">Table</a><a href="#journal">Journal</a></nav>
-        <a className="book-link" href="#book">Book your stay</a>
+        <nav aria-label="Primary navigation"><a href="/rooms">Stay</a><a href="/wellness">Rituals</a><a href="/dining">Table</a><a href="/journal">Journal</a></nav>
+        <a className="book-link" href="/book">Book your stay</a>
       </header>
 
       <section className="hero">
@@ -38,7 +38,7 @@ export default function Home() {
           <p className="eyebrow">A country house for slower days</p>
           <h1>Stay<br/>somewhere<br/><em>softer.</em></h1>
           <p>Moonpetal House is a fictional twelve-room retreat imagined around deep rest, garden suppers, warm water and the luxury of nowhere else to be.</p>
-          <a href="#book">Find a room <span>↓</span></a>
+          <a href="/rooms">Find a room <span>↓</span></a>
         </div>
       </section>
 
@@ -76,14 +76,14 @@ export default function Home() {
       </section>
 
       <section className="rooms">
-        <article><div className="room-art room-one"><span>01</span></div><p className="eyebrow">Garden Room</p><h3>The Fern</h3><p>Quiet greens, linen layers and a window seat turned toward the old orchard.</p><a href="#book">View room →</a></article>
-        <article><div className="room-art room-two"><span>02</span></div><p className="eyebrow">House Suite</p><h3>The Blue Moon</h3><p>A deep-blue sitting room, soaking bath and the house&apos;s widest view of the night garden.</p><a href="#book">View suite →</a></article>
-        <article><div className="room-art room-three"><span>03</span></div><p className="eyebrow">Private Cottage</p><h3>The Dahlia</h3><p>A tiny cottage at the garden edge with its own terrace and outdoor copper tub.</p><a href="#book">View cottage →</a></article>
+        <article><div className="room-art room-one"><span>01</span></div><p className="eyebrow">Garden Room</p><h3>The Fern</h3><p>Quiet greens, linen layers and a window seat turned toward the old orchard.</p><a href="/room/the-fern">View room →</a></article>
+        <article><div className="room-art room-two"><span>02</span></div><p className="eyebrow">House Suite</p><h3>The Blue Moon</h3><p>A deep-blue sitting room, soaking bath and the house&apos;s widest view of the night garden.</p><a href="/room/the-blue-moon">View suite →</a></article>
+        <article><div className="room-art room-three"><span>03</span></div><p className="eyebrow">Private Cottage</p><h3>The Dahlia</h3><p>A tiny cottage at the garden edge with its own terrace and outdoor copper tub.</p><a href="/room/the-dahlia">View cottage →</a></article>
       </section>
 
       <section className="table-section" id="table">
         <div className="table-art" aria-hidden="true"><span>✿</span><i>garden supper / 8:14 pm</i></div>
-        <div className="table-copy"><p className="eyebrow">At the table</p><h2>What the garden gives us.</h2><p>Fictional menus follow the season: leaves, roots, orchard fruit, local dairy and small plates meant to keep conversation going long after the candles shorten.</p><a href="#book">Reserve a table →</a></div>
+        <div className="table-copy"><p className="eyebrow">At the table</p><h2>What the garden gives us.</h2><p>Fictional menus follow the season: leaves, roots, orchard fruit, local dairy and small plates meant to keep conversation going long after the candles shorten.</p><a href="/dining">Reserve a table →</a></div>
       </section>
 
       <section className="journal" id="journal">

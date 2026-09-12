@@ -1,0 +1,1 @@
+import type { MetadataRoute } from "next"; const paths=["","/features","/solutions","/pricing","/resources","/customer-story","/about","/demo"];export default function sitemap():MetadataRoute.Sitemap{return paths.map(path=>({url:"https://daisydesk.vercel.app"+path,lastModified:new Date(),changeFrequency:"monthly",priority:path?0.7:1}))}

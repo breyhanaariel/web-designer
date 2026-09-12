@@ -1,15 +1,3 @@
-import type { Metadata } from "next";
-import "./globals.css";
-
-export const metadata: Metadata = {
-  title: "DaisyDesk | Small business, beautifully organized",
-  description: "A self-directed web design concept for a cheerful small-business client management platform."
-};
-
-export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
-  return (
-    <html lang="en">
-      <body>{children}</body>
-    </html>
-  );
-}
+import type { Metadata } from "next"; import "./globals.css";
+export const metadata:Metadata={metadataBase:new URL("https://daisydesk.vercel.app"),title:{default:"DaisyDesk | Small business, beautifully organized",template:"%s | DaisyDesk"},description:"A self-directed web design concept for a cheerful small-business client management platform.",openGraph:{title:"DaisyDesk",description:"Small business, beautifully organized.",images:["/social-preview.svg"]},twitter:{card:"summary_large_image",images:["/social-preview.svg"]}};
+export default function RootLayout({children}:Readonly<{children:React.ReactNode}>){return <html lang="en"><body>{children}</body></html>}

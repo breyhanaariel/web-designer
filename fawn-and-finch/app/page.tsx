@@ -28,7 +28,7 @@ export default function Home() {
         <button className="menu-button" aria-label="Open menu">☰</button>
         <a href="#top" className="wordmark">FAWN <span>&</span> FINCH</a>
         <nav aria-label="Primary navigation">
-          <a href="#shop">New</a><a href="#shop">Shop</a><a href="#story">Our world</a>
+          <a href="/collection">New</a><a href="/collection">Shop</a><a href="/about">Our world</a>
         </nav>
         <button className="bag" aria-label={`Shopping bag with ${bagCount} concept items`}>Bag <span>{bagCount}</span></button>
       </header>
@@ -45,7 +45,7 @@ export default function Home() {
           <p className="eyebrow">The Woodland Edit · 2026</p>
           <h1>Wildly<br/><em>lovely</em> things.</h1>
           <p>Small luxuries shaped by feathers, fawns, foxglove and the strange little treasures found just off the path.</p>
-          <a className="shop-link" href="#shop">Shop the edit <span>↗</span></a>
+          <a className="shop-link" href="/collection">Shop the edit <span>↗</span></a>
         </div>
       </section>
 
@@ -89,7 +89,7 @@ export default function Home() {
           <p className="eyebrow">Field Notes No. 04</p>
           <h2>How to wear a little wilderness.</h2>
           <p>Pair one expressive motif with quiet texture: brushed metal, soft leather, washed silk, a ribbon tied imperfectly. Let the reference whisper.</p>
-          <a href="#shop">Explore the styling edit →</a>
+          <a href="/journal">Explore the styling edit →</a>
         </div>
         <div className="editorial-art" aria-hidden="true"><span>❦</span><i>finch / fern / fawn</i></div>
       </section>
@@ -103,7 +103,7 @@ export default function Home() {
       <footer>
         <div><a href="#top" className="wordmark">FAWN <span>&</span> FINCH</a><p>Wildly lovely things.</p></div>
         <div><p className="eyebrow">Portfolio note</p><p>This storefront, products and prices are fictional and exist to demonstrate web-design, merchandising and interaction patterns.</p></div>
-        <div><p className="eyebrow">Follow the path</p><a href="#shop">Shop concept</a><a href="#story">Our world</a></div>
+        <div><p className="eyebrow">Follow the path</p><a href="/collection">Shop concept</a><a href="/about">Our world</a></div>
       </footer>
     </main>
   );

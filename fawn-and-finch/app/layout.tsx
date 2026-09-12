@@ -1,11 +1,3 @@
-import type { Metadata } from "next";
-import "./globals.css";
-
-export const metadata: Metadata = {
-  title: "Fawn & Finch | Wildly lovely things",
-  description: "A self-directed animal-inspired fashion and accessories e-commerce web design concept."
-};
-
-export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
-  return <html lang="en"><body>{children}</body></html>;
-}
+import type { Metadata } from "next"; import "./globals.css";
+export const metadata:Metadata={metadataBase:new URL("https://fawn-and-finch.vercel.app"),title:{default:"Fawn & Finch | Wildly lovely things",template:"%s | Fawn & Finch"},description:"A self-directed animal-inspired fashion and accessories e-commerce web design concept.",openGraph:{title:"Fawn & Finch",description:"Wildly lovely things.",images:["/social-preview.svg"]},twitter:{card:"summary_large_image",images:["/social-preview.svg"]}};
+export default function RootLayout({children}:Readonly<{children:React.ReactNode}>){return <html lang="en"><body>{children}</body></html>}
