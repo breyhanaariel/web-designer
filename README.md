@@ -2,7 +2,9 @@
 
 ## **Web Designer · Responsive Websites · Brand-Led Digital Experiences**
 
-I design and build polished, accessible websites that pair **distinctive visual direction** with clear content hierarchy, responsive behavior, conversion-minded UX, and production-ready front-end implementation.
+I design and build polished, accessible websites that pair **distinctive visual direction** with clear content hierarchy, responsive behavior, conversion-minded UX, SEO/accessibility fundamentals, and production-ready front-end implementation.
+
+My web-design work is framed around a simple question: **what should this website help the business accomplish?** Each case study connects business goals to design decisions and intended outcomes without inventing client metrics.
 
 💌 **Available For Freelance**  
 🕓 **Open to Remote Contract Opportunities**
@@ -22,12 +24,15 @@ Available for focused short-term website projects including:
 - Website redesigns and visual refreshes
 - Design systems and reusable web components
 - Accessibility and responsive-design cleanup
+- SEO-minded information architecture and content structure
+
+The client-facing portfolio landing page also includes **clear packages, starting prices, the $50 Community Starter option, and a structured project-inquiry form**.
 
 ---
 
 ## 🌷 Featured Work
 
-This repository is intentionally structured as a **single web-design showcase**. Each project is a self-directed concept with its own brand, responsive site, case study, and independent deployment root.
+This repository is intentionally structured as a **single web-design showcase**. Each flagship project is a self-directed concept with its own brand, responsive site, case study, and independent deployment root.
 
 ![DaisyDesk portfolio hero](./assets/daisydesk-cover.svg)
 
@@ -43,6 +48,11 @@ A cheerful client-management platform for freelancers and small service business
 - Conversion-focused calls to action
 - Accessible components, focus states, and reduced-motion considerations
 - Design-to-code execution in React / Next.js
+
+**Business outcome framing**
+- **Goal:** Make a multi-feature product understandable quickly.
+- **Design decision:** Interactive product preview + lifecycle-based feature structure + plain-language pricing.
+- **Intended impact:** Reduce product confusion, help small businesses recognize fit, and support exploration/pricing consideration.
 
 🔗 [View Project & Case Study](./daisydesk/README.md)  
 🌐 **Live Site:** [daisydesk.vercel.app](https://daisydesk.vercel.app)  
@@ -65,6 +75,11 @@ A romantic accessories label translating woodland inspiration into editorial pro
 - Trust, shipping, and product-detail communication
 - Accessible interactive shopping behavior
 
+**Business outcome framing**
+- **Goal:** Build brand desirability without making shopping harder.
+- **Design decision:** Editorial storytelling paired with predictable filters, product cards, trust information, saved items, and mobile commerce controls.
+- **Intended impact:** Reduce discovery friction, support purchase confidence, and keep consideration paths clear.
+
 🔗 [View Project & Case Study](./fawn-and-finch/README.md)  
 🌐 **Live Site:** [fawn-and-finch.vercel.app](https://fawn-and-finch.vercel.app)  
 🎨 **Design:** [Figma presentation board](https://www.figma.com/design/V7zFfK9MJRNt9j8uOhuamk?node-id=1-22)
@@ -86,9 +101,32 @@ A dreamy countryside retreat built around restorative stays, garden dining, well
 - Local/organic search-minded content structure
 - Responsive typography, motion, and accessibility
 
+**Business outcome framing**
+- **Goal:** Create desire for the property while keeping room information and booking intent easy to find.
+- **Design decision:** Editorial storytelling + dedicated room/service content + clear availability controls + search-minded information architecture.
+- **Intended impact:** Move visitors from inspiration toward booking while supporting organic discovery and reducing booking uncertainty.
+
 🔗 [View Project & Case Study](./moonpetal-house/README.md)  
 🌐 **Live Site:** [moonpetal-house.vercel.app](https://moonpetal-house.vercel.app)  
 🎨 **Design:** [Figma presentation board](https://www.figma.com/design/V7zFfK9MJRNt9j8uOhuamk?node-id=2-2)
+
+---
+
+## 🐾 Before / After Redesign Study
+
+### **Poppy & Paws — Small-Business Website Redesign**
+
+A focused, fictional before/after study demonstrating the kind of work many freelance clients actually need: improving an existing small-business website rather than starting with a blank canvas.
+
+**Before:** buried services · competing CTAs · weak mobile hierarchy · vague local information · generic visual identity  
+**After:** clear packages + starting-price context · one primary booking path · service-area/FAQ structure · accessibility fundamentals · stronger brand hierarchy
+
+**Business goal:** generate clearer, better-qualified inquiries while making the business easier to understand and find.  
+**Intended impact:** less pre-contact confusion, easier service comparison, stronger local context, and a more usable mobile experience.
+
+No real client results, traffic, reviews, or conversion metrics are claimed.
+
+🔗 [Read the Before / After Case Study](./redesign-study/README.md)
 
 ---
 
@@ -99,6 +137,7 @@ A dreamy countryside retreat built around restorative stays, garden dining, well
 | 🎨 **Web & Visual Design** | Art direction · typography · color systems · layout · responsive design · brand translation |
 | 🧭 **Website UX** | Content hierarchy · information architecture · navigation · conversion paths · forms · mobile UX |
 | 🛍️ **Commercial Design** | Landing pages · e-commerce · merchandising · pricing · trust signals · CRO hypotheses |
+| 📈 **Business Outcomes** | Goal definition · design rationale · intended-impact framing · redesign strategy · inquiry/booking paths |
 | ♿ **Accessibility** | WCAG 2.2-informed design · keyboard states · contrast · semantic structure · reduced motion |
 | 🔎 **Search & Performance** | SEO/AEO-minded content structure · metadata planning · responsive assets · performance-aware UI |
 | 💻 **Design → Code** | React · Next.js · TypeScript · semantic HTML · CSS · reusable components · deployment-ready project roots |
@@ -112,6 +151,7 @@ A dreamy countryside retreat built around restorative stays, garden dining, well
 | 🌼 **DaisyDesk** | B2B / small-business SaaS | Marketing hierarchy + interactive product storytelling + conversion |
 | 🦌 **Fawn & Finch** | Fashion e-commerce | Art direction + merchandising + responsive commerce |
 | 🌙 **Moonpetal House** | Luxury hospitality | Editorial storytelling + booking UX + expressive responsive design |
+| 🐾 **Poppy & Paws** | Local small-business redesign | Before/after strategy + local/SEO clarity + inquiry UX + accessibility fundamentals |
 
 ---
 
@@ -157,16 +197,20 @@ web-designer/
 ├── daisydesk/            # SaaS marketing website + case study
 ├── fawn-and-finch/       # Fashion e-commerce website + case study
 ├── moonpetal-house/      # Luxury hospitality website + case study
+├── redesign-study/       # Before/after small-business redesign case study
+├── site/                 # Client-facing portfolio landing page + inquiry form
 ├── docs/                 # Reusable portfolio documentation templates
-├── assets/               # Portfolio-level visual asset guidance
-└── .github/workflows/    # Quality checks for all three websites
+├── assets/               # Portfolio-level visual assets
+└── .github/workflows/    # CI + GitHub Pages deployment
 ```
 
-Each showcase project has its own `package.json` and app root, production deployment, sitemap, robots metadata, and social preview assets. GitHub Actions verifies install, lint, TypeScript, and production build quality across all three project roots.
+Each flagship showcase project has its own `package.json` and app root, production deployment, sitemap, robots metadata, and social preview assets. GitHub Actions verifies install, lint, TypeScript, and production build quality across all three project roots.
 
-> **Live QA:** All three showcase applications pass the repository's current install, lint, TypeScript, and production-build checks, and their primary production routes have been verified online.
+The `site/` portfolio landing page presents packages/pricing, live work, the before/after redesign study, and a direct project-inquiry form.
 
-> **Portfolio disclosure:** DaisyDesk, Fawn & Finch, and Moonpetal House are self-directed concept projects created to demonstrate web-design and front-end execution. No client relationship, user research, traffic, revenue, or conversion results are claimed unless explicitly documented.
+> **Live QA:** All three flagship showcase applications pass the repository's current install, lint, TypeScript, and production-build checks, and their primary production routes have been verified online.
+
+> **Portfolio disclosure:** DaisyDesk, Fawn & Finch, Moonpetal House, and Poppy & Paws are self-directed concept projects created to demonstrate web-design and front-end execution. No client relationship, user research, traffic, revenue, testimonial, or conversion result is claimed unless explicitly documented.
 
 ---
 
@@ -184,6 +228,6 @@ I am available for **short-term website projects** spanning strategy, visual des
 ### 🕓 Open to Remote Contract Opportunities
 I am also open to **remote contract web-design engagements** where a team needs focused design and implementation support for a defined project or period.
 
-If you need a designer who can pair expressive visual direction with responsive, accessible implementation, I would love to connect.
+If you need a designer who can pair expressive visual direction with responsive, accessible implementation—and connect design decisions to business goals—I would love to connect.
 
 [LinkedIn](https://www.linkedin.com/in/brianna-dickenson-9555515b) · [Email Me](mailto:breyhanadickenson@gmail.com?subject=Interested%20in%20a%20Web%20Design%20Project)
