@@ -6,8 +6,8 @@
 **Role:** Web Designer + Front-End Implementation  
 **Stack:** Next.js · React · TypeScript · CSS  
 **Status:** Interactive coded concept  
-🌐 **Live Site:** Coming Soon  
-🎨 **Design:** Coming Soon
+🌐 **Live Site:** [fawn-and-finch.vercel.app](https://fawn-and-finch.vercel.app)  
+🎨 **Design:** [Figma presentation board](https://www.figma.com/design/V7zFfK9MJRNt9j8uOhuamk?node-id=1-22)
 
 ## 🌷 Concept
 
@@ -45,7 +45,7 @@ Implemented homepage:
 7. Service/trust strip
 8. Brand footer
 
-**Planned expansion:** New Arrivals · Collection · Product Detail · Journal · About · Search · Bag · Checkout handoff.
+**Implemented expansion:** Collection · Product Detail · Search · Bag · Checkout handoff · Journal · About.
 
 ## 🎨 Art Direction
 
@@ -99,21 +99,26 @@ npm run dev
 
 Open `http://localhost:3002`.
 
-## 🖼 Visuals To Add
+## 🖼 Portfolio Visuals
 
-- [ ] Editorial campaign hero photography
-- [ ] Desktop storefront mockup from the coded site
-- [ ] Mobile shopping-flow mockup
-- [ ] Product-detail page
-- [ ] Bag interaction
-- [ ] Fawn & Finch packaging/brand board
-- [ ] Component and typography board
-- [ ] Final design link
-- [ ] Live deployment
+![Project showcase cover](../assets/fawn-and-finch-cover.svg)
+
+- ✅ Permanent GitHub hero artwork
+- ✅ Figma presentation board
+- ✅ Live production deployment
+- ✅ Responsive multi-page coded experience
+- ✅ Social sharing preview artwork
+
+## ✅ Production QA
+
+- GitHub Actions: install ✅ · lint ✅ · TypeScript ✅ · production build ✅
+- Production homepage verified ✅
+- Key deeper routes verified ✅
+- Responsive CSS breakpoints implemented ✅
+- Reduced-motion handling implemented ✅
+- Sitemap + robots metadata implemented ✅
+- Open Graph / social metadata implemented ✅
 
 ## 🌱 Next Iteration
 
-1. Add full product-detail and bag flows.
-2. Replace coded placeholder art with original concept campaign imagery.
-3. Add product-search and empty/error states.
-4. Run responsive, keyboard, accessibility, and Lighthouse QA after deployment.
+If developed beyond a portfolio concept, the next meaningful step would be original campaign/product photography and testing the commerce hierarchy with real shoppers.
