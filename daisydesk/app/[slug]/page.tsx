@@ -113,7 +113,7 @@ export default async function DaisySubpage({ params }: { params: Promise<{ slug:
       </section>
 
       {slug === "demo" ? <>
-        <form className="subpage-form" onSubmit={(e) => e.preventDefault()}>
+        <form className="subpage-form" action="#">
           <label>Name<input name="name" autoComplete="name" required /></label>
           <label>Work email<input name="email" type="email" autoComplete="email" required /></label>
           <label>Business type<select name="type" defaultValue="Creative studio"><option>Creative studio</option><option>Photography</option><option>Beauty / wellness</option><option>Consulting</option><option>Other service business</option></select></label>
