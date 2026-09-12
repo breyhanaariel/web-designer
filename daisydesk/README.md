@@ -6,8 +6,8 @@
 **Role:** Web Designer + Front-End Implementation  
 **Stack:** Next.js · React · TypeScript · CSS  
 **Status:** Interactive coded concept  
-🌐 **Live Site:** Coming Soon  
-🎨 **Design:** Coming Soon
+🌐 **Live Site:** [daisydesk.vercel.app](https://daisydesk.vercel.app)  
+🎨 **Design:** [Figma presentation board](https://www.figma.com/design/V7zFfK9MJRNt9j8uOhuamk?node-id=1-2)
 
 ## 🌷 Concept
 
@@ -44,7 +44,7 @@ The implemented homepage currently includes:
 5. Pricing concept with monthly/yearly interaction
 6. Clear concept disclosure
 
-**Planned expansion:** Features · Solutions · Pricing · Resources · Customer Story · About · Demo/Signup.
+**Implemented expansion:** Features · Solutions · Pricing · Resources · Customer Story · About · Demo.
 
 ## 🎨 Art Direction
 
@@ -125,20 +125,26 @@ npm run typecheck
 npm run build
 ```
 
-## 🖼 Visuals To Add
+## 🖼 Portfolio Visuals
 
-- [ ] Final browser hero mockup using the coded site
-- [ ] Full desktop homepage capture
-- [ ] Mobile homepage capture
-- [ ] Expanded product/dashboard screens
-- [ ] DaisyDesk component/token board
-- [ ] Pricing interaction capture
-- [ ] Final Figma design link
-- [ ] Live deployment link
+![Project showcase cover](../assets/daisydesk-cover.svg)
+
+- ✅ Permanent GitHub hero artwork
+- ✅ Figma presentation board
+- ✅ Live production deployment
+- ✅ Responsive multi-page coded experience
+- ✅ Social sharing preview artwork
+
+## ✅ Production QA
+
+- GitHub Actions: install ✅ · lint ✅ · TypeScript ✅ · production build ✅
+- Production homepage verified ✅
+- Key deeper routes verified ✅
+- Responsive CSS breakpoints implemented ✅
+- Reduced-motion handling implemented ✅
+- Sitemap + robots metadata implemented ✅
+- Open Graph / social metadata implemented ✅
 
 ## 🌱 Next Iteration
 
-1. Expand from one-page marketing site to multi-page SaaS site.
-2. Design a fuller fictional product UI for richer product storytelling.
-3. Run accessibility and Lighthouse audits after deployment.
-4. Conduct real usability sessions if the project is developed beyond a visual/web-design case study.
+If developed beyond a portfolio concept, the next meaningful step would be real user research and usability testing rather than adding more speculative screens.
