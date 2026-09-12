@@ -29,6 +29,18 @@ Moonpetal House explores the balance between atmosphere and task completion.
 - Use motion/atmosphere as enhancement rather than required interaction.
 - Build a responsive coded site suitable for eventual independent deployment.
 
+## 📈 Business Goal → Design Decision → Intended Impact
+
+| Business goal | Design decision | Intended business impact |
+|---|---|---|
+| Move visitors from inspiration toward booking | Keep booking access visible while pairing room names with concrete room information | Preserve the emotional luxury experience without making availability actions hard to find |
+| Increase perceived value of a stay | Connect rooms with wellness, dining, experiences, and editorial storytelling | Help prospective guests understand the retreat as a complete experience rather than only a room purchase |
+| Support organic discovery | Create dedicated room, dining, wellness, events, location, and journal content structures with descriptive metadata | Give a real property more useful search entry points for destination and service intent |
+| Reduce booking uncertainty | Use clear date/guest controls and honest demo availability feedback instead of fake inventory | Build trust and make the booking path understandable before handing off to a real reservation system |
+| Protect premium art direction across devices | Use responsive editorial layouts, readable type scaling, semantic content order, and reduced-motion handling | Maintain brand quality while keeping the site usable for mobile and accessibility-conscious guests |
+
+These are **intended outcomes and booking/SEO hypotheses**, not measured booking or ranking results.
+
 ## 👥 Intended Audience
 
 A design-conscious leisure traveler looking for a small, restorative property, romantic weekend, quiet celebration, or wellness-focused stay.
