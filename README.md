@@ -16,6 +16,8 @@ I design and build polished, accessible websites that pair **distinctive visual 
 
 This repository is intentionally structured as a **single web-design showcase**. Each project is a self-directed concept with its own brand, responsive site, case study, and independent deployment root.
 
+![DaisyDesk portfolio hero](./assets/daisydesk-cover.svg)
+
 ### 🌼 DaisyDesk — Small-Business Client Management SaaS
 **SaaS Marketing · Responsive Web Design · Conversion · Accessibility**
 
@@ -30,10 +32,12 @@ A cheerful client-management platform for freelancers and small service business
 - Design-to-code execution in React / Next.js
 
 🔗 [View Project & Case Study](./daisydesk/README.md)  
-🌐 **Live Site:** *Coming Soon*  
-🎨 **Design:** *Coming Soon*
+🌐 **Live Site:** [daisydesk.vercel.app](https://daisydesk.vercel.app)  
+🎨 **Design:** [Figma presentation board](https://www.figma.com/design/V7zFfK9MJRNt9j8uOhuamk?node-id=1-2)
 
 ---
+
+![Fawn & Finch portfolio hero](./assets/fawn-and-finch-cover.svg)
 
 ### 🦌 Fawn & Finch — Animal-Inspired Fashion & Accessories
 **E-Commerce · Art Direction · Merchandising · CRO · Responsive Commerce**
@@ -49,10 +53,12 @@ A romantic accessories label translating woodland inspiration into editorial pro
 - Accessible interactive shopping behavior
 
 🔗 [View Project & Case Study](./fawn-and-finch/README.md)  
-🌐 **Live Site:** *Coming Soon*  
-🎨 **Design:** *Coming Soon*
+🌐 **Live Site:** [fawn-and-finch.vercel.app](https://fawn-and-finch.vercel.app)  
+🎨 **Design:** [Figma presentation board](https://www.figma.com/design/V7zFfK9MJRNt9j8uOhuamk?node-id=1-22)
 
 ---
+
+![Moonpetal House portfolio hero](./assets/moonpetal-house-cover.svg)
 
 ### 🌙 Moonpetal House — Luxury Boutique Hotel & Retreat
 **Hospitality · Editorial Web Design · Booking UX · Motion · SEO**
@@ -68,8 +74,8 @@ A dreamy countryside retreat built around restorative stays, garden dining, well
 - Responsive typography, motion, and accessibility
 
 🔗 [View Project & Case Study](./moonpetal-house/README.md)  
-🌐 **Live Site:** *Coming Soon*  
-🎨 **Design:** *Coming Soon*
+🌐 **Live Site:** [moonpetal-house.vercel.app](https://moonpetal-house.vercel.app)  
+🎨 **Design:** [Figma presentation board](https://www.figma.com/design/V7zFfK9MJRNt9j8uOhuamk?node-id=2-2)
 
 ---
 
@@ -155,7 +161,9 @@ web-designer/
 └── .github/workflows/    # Quality checks for all three websites
 ```
 
-Each showcase project has its own `package.json` and app root so it can be deployed independently without reorganizing this repository.
+Each showcase project has its own `package.json` and app root, production deployment, sitemap, robots metadata, and social preview assets. GitHub Actions verifies install, lint, TypeScript, and production build quality across all three project roots.
+
+> **Live QA:** All three showcase applications pass the repository's current install, lint, TypeScript, and production-build checks, and their primary production routes have been verified online.
 
 > **Portfolio disclosure:** DaisyDesk, Fawn & Finch, and Moonpetal House are self-directed concept projects created to demonstrate web-design and front-end execution. No client relationship, user research, traffic, revenue, or conversion results are claimed unless explicitly documented.
 
