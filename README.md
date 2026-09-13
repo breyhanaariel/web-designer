@@ -1,145 +1,155 @@
 # 🎀 Brianna Dickenson 🎀
 
-## **Web Designer · Responsive Websites · Brand-Led Digital Experiences**
+## **Web Designer | Responsive Websites · Brand-Led Digital Experiences**
 
-I design and build polished, accessible websites that pair **distinctive visual direction** with clear content hierarchy, responsive behavior, conversion-minded UX, SEO/accessibility fundamentals, and production-ready front-end implementation.
+I design and build polished, accessible websites that combine **distinctive visual direction** with clear content hierarchy, responsive behavior, business goals, SEO/accessibility fundamentals, and production-ready implementation.
+
+![Web Designer Portfolio Cover](./site/assets/portfolio-cover.svg)
 
 ---
 
 ## 💌 Work With Me
 
-💌 **Available For Freelance** [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:breyhanadickenson@gmail.com?subject=Interested%20in%20Working%20With%20You)
+🕓 **Seeking Full Time Remote Position**  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianna-dickenson-9555515b)
 
-Available for focused short-term website projects including:
+💌 **Available For Freelance** [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:breyhanadickenson@gmail.com?subject=Web%20Design%20Project%20Inquiry)
 
-- Responsive marketing and small-business websites
-- Landing pages and campaign pages
-- E-commerce storefront and product-page design
-- Website redesigns and visual refreshes
-- Design systems and reusable web components
-- Accessibility and responsive-design cleanup
-- SEO-minded information architecture and content structure
+🌐 **[View Live Portfolio](https://breyhanaariel.github.io/web-designer/)**
 
-The client-facing portfolio landing page also includes **clear packages, starting prices, the $50 Community Starter option, and a structured project-inquiry form**.
+I take on focused short-term website work including landing pages, small-business websites, e-commerce storefronts, redesigns, responsive/accessibility cleanup, and SEO-minded content structure.
+
+### 🌷 Packages & Starting Prices
+
+| Package | Starting Price | Best For | Includes |
+| --- | ---: | --- | --- |
+| ✨ **Landing Page** | **from $25** | Launches, services, campaigns, events, lead generation | 1 responsive page · visual direction · mobile optimization · primary CTA · basic accessibility review |
+| 🌷 **Small Business Site** | **from $200** | Service businesses and small brands that need a clear web presence | Up to 5 core pages · custom visual direction · responsive design/build · inquiry path · SEO-minded structure |
+| 🛍️ **E-Commerce Starter** | **from $500** | Small shops and product-based brands | Storefront + collection design · product-detail patterns · responsive commerce UX · trust/shipping content · reusable visual system |
+| 💗 **Community Starter** | **$50** | Select woman-owned, Black-owned, or animal-centered small businesses | Limited-scope single-section landing page, mini site refresh, or focused design cleanup |
+
+> **Community Starter:** Availability is limited and projects are selected based on fit and scope. Final quotes for all other packages depend on content readiness, integrations, functionality, and timeline.
+
+### 📝 Structured Project Inquiry
+
+When you inquire, I ask for the information below so I can quickly understand the project and recommend the right scope:
+
+- **Name**
+- **Email**
+- **Business / Brand**
+- **Current Website** — if one exists
+- **Project Type** — Landing Page · Small Business Website · E-Commerce Website · Website Redesign · Accessibility / Responsive Cleanup · Other
+- **Budget Range**
+- **Desired Timeline**
+- **Estimated Pages**
+- **Project Details** — what you need, what the website should accomplish, and what already exists
+
+💌 **[Send a Project Inquiry](https://breyhanaariel.github.io/web-designer/#inquiry)**  
+Prefer email? [breyhanadickenson@gmail.com](mailto:breyhanadickenson@gmail.com?subject=Web%20Design%20Project%20Inquiry)
 
 ---
 
-## 🧠 Core Stack
+## 🧠 Core Web Design Capabilities
 
-**Languages & Web:** HTML5 · CSS3 · JavaScript · TypeScript · React · Next.js
-**Front End:** React · Next.js · Tailwind CSS  
-**State:** Redux Toolkit · Zustand  
-**Data & UI:** REST APIs · Chart.js · responsive design · accessibility · form validation  
-**Quality:** ESLint · TypeScript type checking · Vitest · Lighthouse · GitHub Actions
-**Search & Performance:**  SEO/AEO-Minded Content Structure · Metadata Planning · Responsive Assets · Performance-Aware UI 
-**Accessibility:**  WCAG 2.2-Informed design · Keyboard States · Contrast · Semantic Structure · Reduced Motion 
-**Tools & Implementation:** Figma · FigJam · Framer · Adobe Creative Cloud · Git · GitHub
+**Web Design:** Responsive websites · landing pages · small-business websites · e-commerce · redesigns · reusable web systems  
+**Visual Direction:** Art direction · typography · color systems · layout hierarchy · brand expression · editorial web design  
+**Business & Conversion:** Offer clarity · service/package structure · inquiry flows · booking UX · merchandising · conversion-minded CTAs  
+**Search & Performance:** SEO/AEO-minded information architecture · metadata planning · descriptive content structure · responsive assets · performance-aware UI  
+**Accessibility:** WCAG 2.2-informed design · semantic structure · keyboard/focus states · contrast · form labels · reduced motion  
+**Build:** HTML5 · CSS3 · JavaScript · TypeScript · React · Next.js  
+**Tools:** Figma · FigJam · Adobe Creative Cloud · Git · GitHub · Vercel
 
 ---
 
 ## 🌷 Featured Work
 
-![DaisyDesk portfolio hero](./assets/daisydesk-cover.svg)
+### 🎨 Designs
 
-### 🌼 DaisyDesk — Small-Business Client Management SaaS
-**SaaS Marketing · Responsive Web Design · Conversion · Accessibility**
-B2B / Small-Business SaaS | Marketing hierarchy + interactive product storytelling + conversion 
- 
-A cheerful client-management platform for freelancers and small service businesses managing leads, projects, appointments, proposals, invoices, and follow-ups.
+<table>
+<tr>
+<td width="260" valign="top"><img src="./assets/daisydesk-cover.svg" alt="DaisyDesk SaaS website" width="250"><br><br><a href="https://daisydesk.vercel.app">🌐 Live Site</a> · <a href="./daisydesk/README.md">📖 Case Study</a></td>
+<td valign="top">
+<h3>🌼 DaisyDesk — Small-Business Client Management SaaS</h3>
+<p>SaaS Marketing | Product storytelling, pricing hierarchy, conversion, responsive design</p>
+<p>A cheerful client-management website for freelancers and small service businesses managing leads, projects, appointments, proposals, invoices, and follow-ups.</p>
+<p><strong>Demonstrates:</strong> SaaS positioning · marketing hierarchy · interactive product storytelling · pricing UX · conversion-focused CTAs · accessible interaction patterns</p>
+<p><strong>Design &amp; Build:</strong> Figma · Next.js · React · TypeScript · responsive CSS · accessibility · SEO-minded structure</p>
+<p><strong>Business goal:</strong> Make a multi-feature product understandable quickly so small businesses can recognize fit, explore the product, and reach pricing/demo decisions with less confusion.</p>
+</td>
+</tr>
+</table>
 
-**What it demonstrates**
-- SaaS positioning and marketing-site hierarchy
-- Responsive landing-page and pricing design
-- Interactive product storytelling
-- Conversion-focused calls to action
-- Accessible components, focus states, and reduced-motion considerations
-- Design-to-code execution in React / Next.js
+<table>
+<tr>
+<td width="260" valign="top"><img src="./assets/fawn-and-finch-cover.svg" alt="Fawn and Finch fashion e-commerce website" width="250"><br><br><a href="https://fawn-and-finch.vercel.app">🌐 Live Site</a> · <a href="./fawn-and-finch/README.md">📖 Case Study</a></td>
+<td valign="top">
+<h3>🦌 Fawn &amp; Finch — Animal-Inspired Fashion &amp; Accessories</h3>
+<p>Fashion E-Commerce | Art direction, merchandising, CRO, responsive commerce</p>
+<p>A romantic accessories label translating woodland inspiration into editorial product storytelling, curated collections, and a polished mobile shopping experience.</p>
+<p><strong>Demonstrates:</strong> e-commerce art direction · product discovery · filtering · merchandising · product-detail communication · saved items · mobile shopping flows</p>
+<p><strong>Design &amp; Build:</strong> Figma · Next.js · React · TypeScript · responsive commerce UI · accessibility · SEO-minded structure</p>
+<p><strong>Business goal:</strong> Build brand desirability without making shopping harder, supporting discovery, trust, product consideration, and clear purchase paths.</p>
+</td>
+</tr>
+</table>
 
-**Business outcome framing**
-- **Goal:** Make a multi-feature product understandable quickly.
-- **Design decision:** Interactive product preview + lifecycle-based feature structure + plain-language pricing.
-- **Intended impact:** Reduce product confusion, help small businesses recognize fit, and support exploration/pricing consideration.
+<table>
+<tr>
+<td width="260" valign="top"><img src="./assets/moonpetal-house-cover.svg" alt="Moonpetal House luxury hospitality website" width="250"><br><br><a href="https://moonpetal-house.vercel.app">🌐 Live Site</a> · <a href="./moonpetal-house/README.md">📖 Case Study</a></td>
+<td valign="top">
+<h3>🌙 Moonpetal House — Luxury Boutique Hotel &amp; Retreat</h3>
+<p>Luxury Hospitality | Editorial storytelling, booking UX, SEO, responsive design</p>
+<p>A dreamy countryside retreat built around restorative stays, garden dining, wellness rituals, and quiet seasonal experiences.</p>
+<p><strong>Demonstrates:</strong> hospitality art direction · editorial layouts · room discovery · booking-intent flows · local/search-minded content structure · responsive typography and motion</p>
+<p><strong>Design &amp; Build:</strong> Figma · Next.js · React · TypeScript · responsive CSS · reduced motion · SEO/content structure</p>
+<p><strong>Business goal:</strong> Create desire for the property while keeping room information and booking intent easy to find, moving visitors from inspiration toward booking with less uncertainty.</p>
+</td>
+</tr>
+</table>
 
-🔗 [View Project & Case Study](./daisydesk/README.md)  
-🌐 **Live Site:** [daisydesk.vercel.app](https://daisydesk.vercel.app)  
-🎨 **Design:** [Figma presentation board](https://www.figma.com/design/V7zFfK9MJRNt9j8uOhuamk?node-id=1-2)
+### ✨ Redesigns
 
----
-
-![Fawn & Finch portfolio hero](./assets/fawn-and-finch-cover.svg)
-
-### 🦌 Fawn & Finch — Animal-Inspired Fashion & Accessories
-**E-Commerce · Art Direction · Merchandising · CRO · Responsive Commerce**
-Fashion E-Commerce | Art direction + merchandising + responsive commerce 
-
-A romantic accessories label translating woodland inspiration into editorial product storytelling, curated collections, and a polished mobile shopping experience.
-
-**What it demonstrates**
-- Distinctive brand and e-commerce art direction
-- Product discovery, filtering, and merchandising
-- Conversion-aware product-card and collection design
-- Responsive commerce patterns
-- Trust, shipping, and product-detail communication
-- Accessible interactive shopping behavior
-
-**Business outcome framing**
-- **Goal:** Build brand desirability without making shopping harder.
-- **Design decision:** Editorial storytelling paired with predictable filters, product cards, trust information, saved items, and mobile commerce controls.
-- **Intended impact:** Reduce discovery friction, support purchase confidence, and keep consideration paths clear.
-
-🔗 [View Project & Case Study](./fawn-and-finch/README.md)  
-🌐 **Live Site:** [fawn-and-finch.vercel.app](https://fawn-and-finch.vercel.app)  
-🎨 **Design:** [Figma presentation board](https://www.figma.com/design/V7zFfK9MJRNt9j8uOhuamk?node-id=1-22)
-
----
-
-![Moonpetal House portfolio hero](./assets/moonpetal-house-cover.svg)
-
-### 🌙 Moonpetal House — Luxury Boutique Hotel & Retreat
-**Hospitality · Editorial Web Design · Booking UX · Motion · SEO**
-Luxury Hospitality | Editorial storytelling + booking UX + expressive responsive design
- 
-A dreamy countryside retreat built around restorative stays, garden dining, wellness rituals, and quiet seasonal experiences.
-
-**What it demonstrates**
-- Luxury hospitality art direction
-- Editorial layouts and immersive storytelling
-- Room and experience discovery
-- Interactive booking-intent flows
-- Local/organic search-minded content structure
-- Responsive typography, motion, and accessibility
-
-**Business outcome framing**
-- **Goal:** Create desire for the property while keeping room information and booking intent easy to find.
-- **Design decision:** Editorial storytelling + dedicated room/service content + clear availability controls + search-minded information architecture.
-- **Intended impact:** Move visitors from inspiration toward booking while supporting organic discovery and reducing booking uncertainty.
-
-🔗 [View Project & Case Study](./moonpetal-house/README.md)  
-🌐 **Live Site:** [moonpetal-house.vercel.app](https://moonpetal-house.vercel.app)  
-🎨 **Design:** [Figma presentation board](https://www.figma.com/design/V7zFfK9MJRNt9j8uOhuamk?node-id=2-2)
+<table>
+<tr>
+<td width="260" valign="top"><img src="./assets/poppy-and-paws-cover.svg" alt="Poppy and Paws before and after small-business website redesign" width="250"><br><br><a href="https://breyhanaariel.github.io/web-designer/redesign.html">🌐 Live Redesign Study</a> · <a href="./redesign-study/README.md">📖 Case Study</a></td>
+<td valign="top">
+<h3>🐾 Poppy &amp; Paws — Small-Business Website Redesign</h3>
+<p>Local Small Business | Before/after strategy, inquiry UX, local SEO, accessibility</p>
+<p>A fictional before/after redesign showing how a cluttered local-service website can become easier to understand, easier to trust, easier to find, and easier to contact.</p>
+<p><strong>Before:</strong> buried services · competing CTAs · weak mobile hierarchy · vague local information · generic visual identity</p>
+<p><strong>After:</strong> clear packages + starting-price context · one primary booking path · service-area/FAQ structure · accessibility fundamentals · stronger brand hierarchy</p>
+<p><strong>Demonstrates:</strong> redesign strategy · content hierarchy · local/SEO clarity · responsive cleanup · inquiry optimization · accessibility fundamentals</p>
+<p><strong>Business goal:</strong> Generate clearer, better-qualified inquiries while reducing pre-contact confusion and making services easier to compare.</p>
+<p><em>Concept redesign — no real client results, traffic, testimonials, or conversion metrics are claimed.</em></p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🐾 Before / After Redesign Study
+## ♿ Accessibility, SEO & Website Quality
 
-### **Poppy & Paws — Small-Business Website Redesign**
-Local Small-Business Redesign | Before/after strategy + local/SEO clarity + inquiry UX + accessibility fundamentals
- 
-A focused, fictional before/after study demonstrating the kind of work many freelance clients actually need: improving an existing small-business website rather than starting with a blank canvas.
+| Project | Accessibility Evidence | SEO / Search Evidence | Production Evidence |
+| --- | --- | --- | --- |
+| [DaisyDesk](./daisydesk/README.md) | Semantic landmarks · keyboard-operable tabs · ARIA state · reduced-motion support | Metadata · sitemap · robots · descriptive product/content hierarchy | Live deployment · lint · TypeScript · production build |
+| [Fawn & Finch](./fawn-and-finch/README.md) | Real controls · ARIA filter state · live region updates · reduced-motion support | Metadata · sitemap · robots · structured product/collection content | Live deployment · lint · TypeScript · production build |
+| [Moonpetal House](./moonpetal-house/README.md) | Labeled booking controls · status feedback · logical responsive reading order · reduced motion | Metadata · sitemap · robots · room/service/local-content architecture | Live deployment · lint · TypeScript · production build |
+| [Poppy & Paws](./redesign-study/README.md) | Contrast/focus/form-label strategy · larger controls · semantic restructuring | Local/service headings · FAQ strategy · clearer business/service context | Live before/after study · documented redesign decisions |
 
-**Before:** buried services · competing CTAs · weak mobile hierarchy · vague local information · generic visual identity  
-**After:** clear packages + starting-price context · one primary booking path · service-area/FAQ structure · accessibility fundamentals · stronger brand hierarchy
-
-**Business goal:** generate clearer, better-qualified inquiries while making the business easier to understand and find.  
-**Intended impact:** less pre-contact confusion, easier service comparison, stronger local context, and a more usable mobile experience.
-
-No real client results, traffic, reviews, or conversion metrics are claimed.
-
-🔗 [Read the Before / After Case Study](./redesign-study/README.md)
+The showcase work targets **WCAG 2.2-informed AA design**. Formal third-party conformance is not claimed, and I do not invent Lighthouse scores or business metrics that have not been measured.
 
 ---
 
-## ✅ Final QA
+## ✅ Production Quality
+
+The three coded showcase sites use the same repeatable quality checks:
+
+```bash
+npm run lint
+npm run typecheck
+npm run build
+```
+
+GitHub Actions verifies dependency installation, linting, TypeScript, and production builds. Each showcase is independently deployed so recruiters and clients can review the actual responsive experience rather than only static mockups.
 
 [View the final recruiter/client and production QA review](./docs/FINAL_REVIEW.md).
 
@@ -158,10 +168,9 @@ No real client results, traffic, reviews, or conversion metrics are claimed.
 
 ## 🌸 Explore My Work
 
-My portfolio is intentionally separated by specialty so each discipline can tell a focused story while still showing how my skills connect.
+My portfolio is intentionally separated by specialty so each discipline can tell a focused story while still showing how my design and development skills connect.
 
-- 🎀 [UI/UX Designer](https://github.com/breyhanaariel/ui-ux-designer) — product design, research, flows, design systems, prototyping, and complex interaction design
-- 💻 [Front-End Developer](https://github.com/breyhanaariel/front-end-developer) — React, Next.js, TypeScript, APIs, state management, testing, and accessible implementation
-- 🌐 **Web Designer** — responsive websites and brand-led digital experiences for short-term client projects
+- 🎀 [UI/UX Designer](https://github.com/breyhanaariel/ui-ux-designer) — product design, research, flows, design systems, prototyping, and developer handoff
+- 💻 [Front-End Developer](https://github.com/breyhanaariel/front-end-developer) — React, Next.js, TypeScript, APIs, state management, testing, accessibility, and measured performance
+- 🌐 **Web Designer** — responsive websites, redesigns, e-commerce, SEO/accessibility fundamentals, and business-focused client work
 - 🎨 [Graphic Designer](https://github.com/breyhanaariel/graphic-designer) — brand identity, campaign design, marketing assets, print, and motion
-
