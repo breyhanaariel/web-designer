@@ -21,37 +21,14 @@ I take on focused short-term website work including landing pages, small-busines
 
 ### 🌷 Packages & Starting Prices
 
-| Package | Starting Price | Best For | Includes |
-| --- | ---: | --- | --- |
-| ✨ **Landing Page** | **from $25** | Launches, services, campaigns, events, lead generation | 1 responsive page · visual direction · mobile optimization · primary CTA · basic accessibility review |
-| 🌷 **Small Business Site** | **from $200** | Service businesses and small brands that need a clear web presence | Up to 5 core pages · custom visual direction · responsive design/build · inquiry path · SEO-minded structure |
-| 🛍️ **E-Commerce Starter** | **from $500** | Small shops and product-based brands | Storefront + collection design · product-detail patterns · responsive commerce UX · trust/shipping content · reusable visual system |
-| 💗 **Community Starter** | **$50** | Select woman-owned, Black-owned, or animal-centered small businesses | Limited-scope single-section landing page, mini site refresh, or focused design cleanup |
-
-> **Community Starter:** Availability is limited and projects are selected based on fit and scope. Final quotes for all other packages depend on content readiness, integrations, functionality, and timeline.
-
 🌷 **[See the full services page, package comparison, process & FAQ →](https://breyhanaariel.github.io/web-designer/services.html)**
-
-### 📝 Structured Project Inquiry
-
-When you inquire, I ask for the information below so I can quickly understand the project and recommend the right scope:
-
-- **Name**
-- **Email**
-- **Business / Brand**
-- **Current Website** — if one exists
-- **Project Type** — Landing Page · Small Business Website · E-Commerce Website · Website Redesign · Accessibility / Responsive Cleanup · Other
-- **Budget Range**
-- **Desired Timeline**
-- **Estimated Pages**
-- **Project Details** — what you need, what the website should accomplish, and what already exists
 
 💌 **[Send a Project Inquiry](https://breyhanaariel.github.io/web-designer/services.html#inquiry)**  
 Prefer email? [breyhanadickenson@gmail.com](mailto:breyhanadickenson@gmail.com?subject=Web%20Design%20Project%20Inquiry)
 
 ---
 
-## 🧠 Core Web Design Capabilities
+## 🧠 Core Stack
 
 **Web Design:** Responsive websites · landing pages · small-business websites · e-commerce · redesigns · reusable web systems  
 **Visual Direction:** Art direction · typography · color systems · layout hierarchy · brand expression · editorial web design  
