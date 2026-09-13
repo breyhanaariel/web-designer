@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Poppy and Paws before and after redesign cover</title>
+  <desc id="desc">A feminine before-and-after website redesign illustration for the fictional Poppy and Paws pet grooming business.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff3f7"/>
+      <stop offset="1" stop-color="#eff5e9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="760" rx="44" fill="url(#bg)"/>
+  <text x="72" y="90" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#95677d" letter-spacing="4">BEFORE / AFTER REDESIGN</text>
+  <text x="72" y="166" font-family="Georgia, serif" font-size="66" font-weight="700" fill="#4d3f48">🐾 Poppy &amp; Paws</text>
+  <text x="72" y="214" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#74656d">Small-business website redesign · inquiry UX · local SEO · accessibility</text>
+
+  <g transform="translate(72 300)">
+    <rect width="470" height="360" rx="28" fill="#f2ece9" stroke="#dfd3ce"/>
+    <text x="28" y="44" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#9b858c" letter-spacing="2">BEFORE</text>
+    <rect x="28" y="74" width="414" height="82" rx="14" fill="#e1d7d3"/>
+    <text x="235" y="107" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#8a7a7f">Welcome to Our Website!</text>
+    <text x="235" y="135" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#95878a">Quality service for all your pet needs.</text>
+    <rect x="28" y="184" width="388" height="12" rx="6" fill="#d7cbc7"/>
+    <rect x="28" y="212" width="330" height="12" rx="6" fill="#d7cbc7"/>
+    <rect x="28" y="240" width="370" height="12" rx="6" fill="#d7cbc7"/>
+    <g fill="#ddd2ce">
+      <rect x="28" y="282" width="120" height="42" rx="8"/>
+      <rect x="162" y="282" width="120" height="42" rx="8"/>
+      <rect x="296" y="282" width="120" height="42" rx="8"/>
+    </g>
+  </g>
+
+  <g transform="translate(658 300)">
+    <rect width="470" height="360" rx="28" fill="#fffdf9" stroke="#eadfdc"/>
+    <text x="28" y="44" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#95677d" letter-spacing="2">AFTER</text>
+    <rect x="28" y="74" width="414" height="145" rx="18" fill="#fff0f5"/>
+    <text x="50" y="112" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#8d6577">Gentle grooming · Local appointments</text>
+    <text x="50" y="151" font-family="Georgia, serif" font-size="31" font-weight="700" fill="#4d3f48">Fresh coats. Happy paws.</text>
+    <text x="50" y="184" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#74656d">Clear services, pricing, and one easy booking path.</text>
+    <rect x="50" y="196" width="160" height="40" rx="20" fill="#b76086"/>
+    <text x="130" y="222" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#fff">Book a Visit</text>
+    <g>
+      <rect x="28" y="250" width="124" height="74" rx="12" fill="#fff7ec" stroke="#eadfdc"/>
+      <rect x="173" y="250" width="124" height="74" rx="12" fill="#fff7ec" stroke="#eadfdc"/>
+      <rect x="318" y="250" width="124" height="74" rx="12" fill="#fff7ec" stroke="#eadfdc"/>
+      <text x="90" y="282" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#5c4b54">Tidy-Up</text>
+      <text x="90" y="304" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8a6b79">from $45</text>
+      <text x="235" y="282" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#5c4b54">Full Groom</text>
+      <text x="235" y="304" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8a6b79">from $75</text>
+      <text x="380" y="282" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#5c4b54">Cat Care</text>
+      <text x="380" y="304" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8a6b79">from $65</text>
+    </g>
+  </g>
+</svg>
