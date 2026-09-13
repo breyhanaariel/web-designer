@@ -14,7 +14,8 @@ I design and build polished, accessible websites that combine **distinctive visu
 
 💌 **Available For Freelance** [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:breyhanadickenson@gmail.com?subject=Web%20Design%20Project%20Inquiry)
 
-🌐 **[View Live Portfolio](https://breyhanaariel.github.io/web-designer/)**
+🌐 **[View Live Portfolio](https://breyhanaariel.github.io/web-designer/)**  
+🌷 **[View Services, Packages & Project Inquiry](https://breyhanaariel.github.io/web-designer/services.html)**
 
 I take on focused short-term website work including landing pages, small-business websites, e-commerce storefronts, redesigns, responsive/accessibility cleanup, and SEO-minded content structure.
 
@@ -28,6 +29,8 @@ I take on focused short-term website work including landing pages, small-busines
 | 💗 **Community Starter** | **$50** | Select woman-owned, Black-owned, or animal-centered small businesses | Limited-scope single-section landing page, mini site refresh, or focused design cleanup |
 
 > **Community Starter:** Availability is limited and projects are selected based on fit and scope. Final quotes for all other packages depend on content readiness, integrations, functionality, and timeline.
+
+🌷 **[See the full services page, package comparison, process & FAQ →](https://breyhanaariel.github.io/web-designer/services.html)**
 
 ### 📝 Structured Project Inquiry
 
@@ -43,7 +46,7 @@ When you inquire, I ask for the information below so I can quickly understand th
 - **Estimated Pages**
 - **Project Details** — what you need, what the website should accomplish, and what already exists
 
-💌 **[Send a Project Inquiry](https://breyhanaariel.github.io/web-designer/#inquiry)**  
+💌 **[Send a Project Inquiry](https://breyhanaariel.github.io/web-designer/services.html#inquiry)**  
 Prefer email? [breyhanadickenson@gmail.com](mailto:breyhanadickenson@gmail.com?subject=Web%20Design%20Project%20Inquiry)
 
 ---
