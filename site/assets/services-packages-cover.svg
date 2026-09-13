@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 520" role="img" aria-labelledby="title desc">
+  <title id="title">Brianna Dickenson Web Design services and packages</title>
+  <desc id="desc">A feminine pastel services cover showing Landing Page, Small Business Site, E-Commerce Starter, and Community Starter packages.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff4f8"/>
+      <stop offset="0.52" stop-color="#fffaf0"/>
+      <stop offset="1" stop-color="#eef4ea"/>
+    </linearGradient>
+    <linearGradient id="community" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffe8f1"/>
+      <stop offset="1" stop-color="#fff2df"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#6d4d5d" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="520" rx="44" fill="url(#bg)"/>
+  <circle cx="1265" cy="65" r="125" fill="#f4dbe6" opacity="0.7"/>
+  <circle cx="95" cy="500" r="145" fill="#f6e7ca" opacity="0.6"/>
+
+  <text x="90" y="86" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#95677d" letter-spacing="5">WORK WITH ME · SERVICES &amp; PACKAGES</text>
+  <text x="90" y="155" font-family="Georgia, serif" font-size="58" font-weight="700" fill="#4d3f48">Cute websites with clear business goals. 🎀</text>
+  <text x="90" y="196" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#74656d">Responsive · accessible · SEO-minded · thoughtfully designed for small businesses and growing brands</text>
+
+  <g filter="url(#shadow)">
+    <rect x="90" y="248" width="286" height="192" rx="28" fill="#fffdf8" stroke="#eadfdc"/>
+    <text x="118" y="300" font-family="Arial, Helvetica, sans-serif" font-size="34">✨</text>
+    <text x="118" y="344" font-family="Georgia, serif" font-size="29" font-weight="700" fill="#4d3f48">Landing Page</text>
+    <text x="118" y="386" font-family="Georgia, serif" font-size="31" font-weight="700" fill="#b76086">from $25</text>
+    <text x="118" y="418" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#766a72">1 responsive page · CTA · mobile-ready</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="398" y="232" width="286" height="208" rx="28" fill="#fffdf9" stroke="#e6d6dc"/>
+    <text x="426" y="286" font-family="Arial, Helvetica, sans-serif" font-size="34">🌷</text>
+    <text x="426" y="330" font-family="Georgia, serif" font-size="29" font-weight="700" fill="#4d3f48">Small Business Site</text>
+    <text x="426" y="372" font-family="Georgia, serif" font-size="31" font-weight="700" fill="#b76086">from $200</text>
+    <text x="426" y="404" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#766a72">Up to 5 pages · custom direction · inquiry path</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="706" y="248" width="286" height="192" rx="28" fill="#f8fbf4" stroke="#dde7d8"/>
+    <text x="734" y="300" font-family="Arial, Helvetica, sans-serif" font-size="34">🛍️</text>
+    <text x="734" y="344" font-family="Georgia, serif" font-size="29" font-weight="700" fill="#4d3f48">E-Commerce Starter</text>
+    <text x="734" y="386" font-family="Georgia, serif" font-size="31" font-weight="700" fill="#7d9479">from $500</text>
+    <text x="734" y="418" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#766a72">Storefront · product UX · reusable system</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="1014" y="232" width="296" height="208" rx="28" fill="url(#community)" stroke="#ebcfdc"/>
+    <text x="1042" y="286" font-family="Arial, Helvetica, sans-serif" font-size="34">💗</text>
+    <text x="1042" y="330" font-family="Georgia, serif" font-size="29" font-weight="700" fill="#6f485c">Community Starter</text>
+    <text x="1042" y="372" font-family="Georgia, serif" font-size="31" font-weight="700" fill="#b76086">$50</text>
+    <text x="1042" y="402" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#7d6470">Select woman-owned, Black-owned,</text>
+    <text x="1042" y="426" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#7d6470">or animal-centered small businesses</text>
+  </g>
+
+  <text x="90" y="485" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#95677d">View services · compare packages · read the process · start a project →</text>
+</svg>
