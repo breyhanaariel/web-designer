@@ -4,17 +4,11 @@
 
 I design and build polished, accessible websites that pair **distinctive visual direction** with clear content hierarchy, responsive behavior, conversion-minded UX, SEO/accessibility fundamentals, and production-ready front-end implementation.
 
-My web-design work is framed around a simple question: **what should this website help the business accomplish?** Each case study connects business goals to design decisions and intended outcomes without inventing client metrics.
-
-💌 **Available For Freelance**  
-🕓 **Open to Remote Contract Opportunities**
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianna-dickenson-9555515b)
-[![Gmail](https://img.shields.io/badge/Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:breyhanadickenson@gmail.com?subject=Interested%20in%20a%20Web%20Design%20Project)
-
 ---
 
-## 💌 Freelance Services
+## 💌 Work With Me
+
+💌 **Available For Freelance** [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:breyhanadickenson@gmail.com?subject=Interested%20in%20Working%20With%20You)
 
 Available for focused short-term website projects including:
 
@@ -30,15 +24,27 @@ The client-facing portfolio landing page also includes **clear packages, startin
 
 ---
 
-## 🌷 Featured Work
+## 🧠 Core Stack
 
-This repository is intentionally structured as a **single web-design showcase**. Each flagship project is a self-directed concept with its own brand, responsive site, case study, and independent deployment root.
+**Languages & Web:** HTML5 · CSS3 · JavaScript · TypeScript · React · Next.js
+**Front End:** React · Next.js · Tailwind CSS  
+**State:** Redux Toolkit · Zustand  
+**Data & UI:** REST APIs · Chart.js · responsive design · accessibility · form validation  
+**Quality:** ESLint · TypeScript type checking · Vitest · Lighthouse · GitHub Actions
+**Search & Performance:**  SEO/AEO-Minded Content Structure · Metadata Planning · Responsive Assets · Performance-Aware UI 
+**Accessibility:**  WCAG 2.2-Informed design · Keyboard States · Contrast · Semantic Structure · Reduced Motion 
+**Tools & Implementation:** Figma · FigJam · Framer · Adobe Creative Cloud · Git · GitHub
+
+---
+
+## 🌷 Featured Work
 
 ![DaisyDesk portfolio hero](./assets/daisydesk-cover.svg)
 
 ### 🌼 DaisyDesk — Small-Business Client Management SaaS
 **SaaS Marketing · Responsive Web Design · Conversion · Accessibility**
-
+B2B / Small-Business SaaS | Marketing hierarchy + interactive product storytelling + conversion 
+ 
 A cheerful client-management platform for freelancers and small service businesses managing leads, projects, appointments, proposals, invoices, and follow-ups.
 
 **What it demonstrates**
@@ -64,6 +70,7 @@ A cheerful client-management platform for freelancers and small service business
 
 ### 🦌 Fawn & Finch — Animal-Inspired Fashion & Accessories
 **E-Commerce · Art Direction · Merchandising · CRO · Responsive Commerce**
+Fashion E-Commerce | Art direction + merchandising + responsive commerce 
 
 A romantic accessories label translating woodland inspiration into editorial product storytelling, curated collections, and a polished mobile shopping experience.
 
@@ -90,7 +97,8 @@ A romantic accessories label translating woodland inspiration into editorial pro
 
 ### 🌙 Moonpetal House — Luxury Boutique Hotel & Retreat
 **Hospitality · Editorial Web Design · Booking UX · Motion · SEO**
-
+Luxury Hospitality | Editorial storytelling + booking UX + expressive responsive design
+ 
 A dreamy countryside retreat built around restorative stays, garden dining, wellness rituals, and quiet seasonal experiences.
 
 **What it demonstrates**
@@ -115,7 +123,8 @@ A dreamy countryside retreat built around restorative stays, garden dining, well
 ## 🐾 Before / After Redesign Study
 
 ### **Poppy & Paws — Small-Business Website Redesign**
-
+Local Small-Business Redesign | Before/after strategy + local/SEO clarity + inquiry UX + accessibility fundamentals
+ 
 A focused, fictional before/after study demonstrating the kind of work many freelance clients actually need: improving an existing small-business website rather than starting with a blank canvas.
 
 **Before:** buried services · competing CTAs · weak mobile hierarchy · vague local information · generic visual identity  
@@ -130,41 +139,9 @@ No real client results, traffic, reviews, or conversion metrics are claimed.
 
 ---
 
-## 🧠 Core Capabilities
+## ✅ Final QA
 
-| Area | Skills |
-|---|---|
-| 🎨 **Web & Visual Design** | Art direction · typography · color systems · layout · responsive design · brand translation |
-| 🧭 **Website UX** | Content hierarchy · information architecture · navigation · conversion paths · forms · mobile UX |
-| 🛍️ **Commercial Design** | Landing pages · e-commerce · merchandising · pricing · trust signals · CRO hypotheses |
-| 📈 **Business Outcomes** | Goal definition · design rationale · intended-impact framing · redesign strategy · inquiry/booking paths |
-| ♿ **Accessibility** | WCAG 2.2-informed design · keyboard states · contrast · semantic structure · reduced motion |
-| 🔎 **Search & Performance** | SEO/AEO-minded content structure · metadata planning · responsive assets · performance-aware UI |
-| 💻 **Design → Code** | React · Next.js · TypeScript · semantic HTML · CSS · reusable components · deployment-ready project roots |
-
----
-
-## 🌈 Portfolio Range
-
-| Project | Website Type | Primary Proof |
-|---|---|---|
-| 🌼 **DaisyDesk** | B2B / small-business SaaS | Marketing hierarchy + interactive product storytelling + conversion |
-| 🦌 **Fawn & Finch** | Fashion e-commerce | Art direction + merchandising + responsive commerce |
-| 🌙 **Moonpetal House** | Luxury hospitality | Editorial storytelling + booking UX + expressive responsive design |
-| 🐾 **Poppy & Paws** | Local small-business redesign | Before/after strategy + local/SEO clarity + inquiry UX + accessibility fundamentals |
-
----
-
-## 🛠 Tools & Implementation
-
-**Design & Prototyping**  
-Figma · FigJam · Framer · Adobe Creative Cloud
-
-**Front-End**  
-HTML5 · CSS3 · JavaScript · TypeScript · React · Next.js
-
-**Quality & Collaboration**  
-Git · GitHub · responsive QA · accessibility review · content/spec documentation
+[View the final recruiter/client and production QA review](./docs/FINAL_REVIEW.md).
 
 ---
 
@@ -188,46 +165,3 @@ My portfolio is intentionally separated by specialty so each discipline can tell
 - 🌐 **Web Designer** — responsive websites and brand-led digital experiences for short-term client projects
 - 🎨 [Graphic Designer](https://github.com/breyhanaariel/graphic-designer) — brand identity, campaign design, marketing assets, print, and motion
 
----
-
-## 📁 Repository Structure
-
-```text
-web-designer/
-├── daisydesk/            # SaaS marketing website + case study
-├── fawn-and-finch/       # Fashion e-commerce website + case study
-├── moonpetal-house/      # Luxury hospitality website + case study
-├── redesign-study/       # Before/after small-business redesign case study
-├── site/                 # Client-facing portfolio landing page + inquiry form
-├── docs/                 # Reusable portfolio documentation templates
-├── assets/               # Portfolio-level visual assets
-└── .github/workflows/    # CI + GitHub Pages deployment
-```
-
-Each flagship showcase project has its own `package.json` and app root, production deployment, sitemap, robots metadata, and social preview assets. GitHub Actions verifies install, lint, TypeScript, and production build quality across all three project roots.
-
-The `site/` portfolio landing page presents packages/pricing, live work, the before/after redesign study, and a direct project-inquiry form.
-
-> **Live QA:** All three flagship showcase applications pass the repository's current install, lint, TypeScript, and production-build checks, and their primary production routes have been verified online.
-
-> **Portfolio disclosure:** DaisyDesk, Fawn & Finch, Moonpetal House, and Poppy & Paws are self-directed concept projects created to demonstrate web-design and front-end execution. No client relationship, user research, traffic, revenue, testimonial, or conversion result is claimed unless explicitly documented.
-
----
-
-## ✅ Final QA
-
-[View the final recruiter/client and production QA review](./docs/FINAL_REVIEW.md).
-
----
-
-## 💌 Work With Me
-
-### 💌 Available For Freelance
-I am available for **short-term website projects** spanning strategy, visual design, responsive UX, and front-end implementation. I can take a focused website engagement from design direction through a polished working build.
-
-### 🕓 Open to Remote Contract Opportunities
-I am also open to **remote contract web-design engagements** where a team needs focused design and implementation support for a defined project or period.
-
-If you need a designer who can pair expressive visual direction with responsive, accessible implementation—and connect design decisions to business goals—I would love to connect.
-
-[LinkedIn](https://www.linkedin.com/in/brianna-dickenson-9555515b) · [Email Me](mailto:breyhanadickenson@gmail.com?subject=Interested%20in%20a%20Web%20Design%20Project)
