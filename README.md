@@ -14,16 +14,14 @@ I design and build polished, accessible websites that combine **distinctive visu
 
 💌 **Available For Freelance** [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:breyhanadickenson@gmail.com?subject=Web%20Design%20Project%20Inquiry)
 
-🌐 **[View Live Portfolio](https://breyhanaariel.github.io/web-designer/)**  
-🌷 **[View Services, Packages & Project Inquiry](https://breyhanaariel.github.io/web-designer/services.html)**
+🌐 **[View Live Portfolio](https://breyhanaariel.github.io/web-designer/)**
 
 I take on focused short-term website work including landing pages, small-business websites, e-commerce storefronts, redesigns, responsive/accessibility cleanup, and SEO-minded content structure.
 
-### 🌷 Packages & Starting Prices
+[![Services & Packages](./site/assets/services-packages-cover.svg)](https://breyhanaariel.github.io/web-designer/services.html)
 
-🌷 **[See the full services page, package comparison, process & FAQ →](https://breyhanaariel.github.io/web-designer/services.html)**
-
-💌 **[Send a Project Inquiry](https://breyhanaariel.github.io/web-designer/services.html#inquiry)**  
+🌷 **[View Services, Packages & Project Inquiry →](https://breyhanaariel.github.io/web-designer/services.html)**  
+💌 **[Send a Project Inquiry →](https://breyhanaariel.github.io/web-designer/services.html#inquiry)**  
 Prefer email? [breyhanadickenson@gmail.com](mailto:breyhanadickenson@gmail.com?subject=Web%20Design%20Project%20Inquiry)
 
 ---
