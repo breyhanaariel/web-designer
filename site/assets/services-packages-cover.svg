@@ -1,112 +1,98 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 590" role="img" aria-labelledby="title desc">
-  <title id="title">Brianna Dickenson Web Design services and packages</title>
-  <desc id="desc">A feminine pastel services cover showing Landing Page, Small Business Site, E-Commerce Starter, and Community Starter packages.</desc>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 930" role="img" aria-labelledby="title desc">
+  <title id="title">Brianna Dickenson Web Design services, packages, support and maintenance</title>
+  <desc id="desc">A feminine pastel services cover showing website packages plus hourly support, a Design and Develop Pack, and monthly maintenance.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#fff4f8"/>
       <stop offset="0.52" stop-color="#fffaf0"/>
       <stop offset="1" stop-color="#eef4ea"/>
     </linearGradient>
-
     <linearGradient id="community" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#ffe8f1"/>
       <stop offset="1" stop-color="#fff2df"/>
     </linearGradient>
-
+    <linearGradient id="support" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8edf5"/>
+      <stop offset="1" stop-color="#f5f7ea"/>
+    </linearGradient>
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
       <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#6d4d5d" flood-opacity="0.12"/>
     </filter>
   </defs>
 
-  <rect width="1400" height="590" rx="44" fill="url(#bg)"/>
+  <rect width="1400" height="930" rx="44" fill="url(#bg)"/>
   <circle cx="1265" cy="72" r="125" fill="#f4dbe6" opacity="0.7"/>
-  <circle cx="95" cy="560" r="145" fill="#f6e7ca" opacity="0.6"/>
+  <circle cx="95" cy="890" r="150" fill="#f6e7ca" opacity="0.6"/>
 
-  <text x="90" y="88" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#95677d" letter-spacing="5">
-    WORK WITH ME · SERVICES &amp; PACKAGES
-  </text>
+  <text x="90" y="82" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#95677d" letter-spacing="5">WORK WITH ME · SERVICES &amp; PACKAGES</text>
+  <text x="90" y="150" font-family="Georgia, serif" font-size="50" font-weight="700" fill="#4d3f48">Cute websites. Clear business goals. 🎀</text>
+  <text x="90" y="192" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#74656d">Responsive · accessible · SEO-minded · thoughtfully designed for small businesses and growing brands</text>
+  <text x="90" y="238" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#95677d" letter-spacing="2.5">WEBSITE PACKAGES</text>
 
-  <text x="90" y="158" font-family="Georgia, serif" font-size="52" font-weight="700" fill="#4d3f48">
-    Cute websites. Clear business goals. 🎀
-  </text>
-
-  <text x="90" y="198" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#74656d">
-    Responsive · accessible · SEO-minded · thoughtfully designed for small businesses and growing brands
-  </text>
-
-  <!-- Landing Page -->
   <g filter="url(#shadow)">
-    <rect x="90" y="255" width="285" height="228" rx="28" fill="#fffdf8" stroke="#eadfdc"/>
-    <text x="118" y="308" font-family="Arial, Helvetica, sans-serif" font-size="32">✨</text>
-    <text x="118" y="352" font-family="Georgia, serif" font-size="27" font-weight="700" fill="#4d3f48">
-      Landing Page
-    </text>
-    <text x="118" y="392" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#b76086">
-      from $25
-    </text>
-    <text x="118" y="425" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#766a72">
-      1 responsive page
-    </text>
-    <text x="118" y="447" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#766a72">
-      CTA · mobile-ready
-    </text>
+    <rect x="65" y="265" width="295" height="230" rx="28" fill="#fffdf8" stroke="#eadfdc"/>
+    <text x="93" y="315" font-family="Arial, Helvetica, sans-serif" font-size="31">✨</text>
+    <text x="93" y="357" font-family="Georgia, serif" font-size="27" font-weight="700" fill="#4d3f48">Landing Page</text>
+    <text x="93" y="397" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#b76086">from $25</text>
+    <text x="93" y="430" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#766a72">1 responsive page</text>
+    <text x="93" y="453" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#766a72">CTA · mobile-ready</text>
   </g>
 
-  <!-- Small Business Site -->
   <g filter="url(#shadow)">
-    <rect x="397" y="240" width="285" height="243" rx="28" fill="#fffdf9" stroke="#e6d6dc"/>
-    <text x="425" y="295" font-family="Arial, Helvetica, sans-serif" font-size="32">🌷</text>
-    <text x="425" y="339" font-family="Georgia, serif" font-size="25" font-weight="700" fill="#4d3f48">
-      Small Business Site
-    </text>
-    <text x="425" y="379" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#b76086">
-      from $200
-    </text>
-    <text x="425" y="412" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#766a72">
-      Up to 5 pages
-    </text>
-    <text x="425" y="434" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#766a72">
-      custom design · inquiry path
-    </text>
+    <rect x="390" y="250" width="295" height="245" rx="28" fill="#fffdf9" stroke="#e6d6dc"/>
+    <text x="418" y="302" font-family="Arial, Helvetica, sans-serif" font-size="31">🌷</text>
+    <text x="418" y="344" font-family="Georgia, serif" font-size="25" font-weight="700" fill="#4d3f48">Small Business Site</text>
+    <text x="418" y="384" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#b76086">from $200</text>
+    <text x="418" y="417" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#766a72">Up to 10 pages</text>
+    <text x="418" y="440" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#766a72">custom design</text>
+    <text x="418" y="463" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#766a72">inquiry path</text>
   </g>
 
-  <!-- E-Commerce Starter -->
   <g filter="url(#shadow)">
-    <rect x="704" y="255" width="285" height="228" rx="28" fill="#f8fbf4" stroke="#dde7d8"/>
-    <text x="732" y="308" font-family="Arial, Helvetica, sans-serif" font-size="32">🛍️</text>
-    <text x="732" y="352" font-family="Georgia, serif" font-size="25" font-weight="700" fill="#4d3f48">
-      E-Commerce Starter
-    </text>
-    <text x="732" y="392" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#7d9479">
-      from $500
-    </text>
-    <text x="732" y="425" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#766a72">
-      Storefront
-    </text>
-    <text x="732" y="447" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#766a72">
-      product pages · reusable system
-    </text>
+    <rect x="715" y="265" width="295" height="230" rx="28" fill="#f8fbf4" stroke="#dde7d8"/>
+    <text x="743" y="315" font-family="Arial, Helvetica, sans-serif" font-size="31">🛍️</text>
+    <text x="743" y="357" font-family="Georgia, serif" font-size="25" font-weight="700" fill="#4d3f48">E-Commerce Starter</text>
+    <text x="743" y="397" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#7d9479">from $500</text>
+    <text x="743" y="430" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#766a72">Storefront</text>
+    <text x="743" y="453" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#766a72">product pages · reusable system</text>
   </g>
 
-  <!-- Community Starter -->
   <g filter="url(#shadow)">
-    <rect x="1011" y="240" width="300" height="243" rx="28" fill="url(#community)" stroke="#ebcfdc"/>
-    <text x="1039" y="295" font-family="Arial, Helvetica, sans-serif" font-size="32">💗</text>
-    <text x="1039" y="339" font-family="Georgia, serif" font-size="25" font-weight="700" fill="#6f485c">
-      Community Starter
-    </text>
-    <text x="1039" y="379" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#b76086">
-      $50
-    </text>
-    <text x="1039" y="409" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#7d6470">
-      Select woman-owned, Black-owned,
-    </text>
-    <text x="1039" y="431" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#7d6470">
-      or animal-centered
-    </text>
-    <text x="1039" y="453" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#7d6470">
-      small businesses
-    </text>
+    <rect x="1040" y="250" width="295" height="245" rx="28" fill="url(#community)" stroke="#ebcfdc"/>
+    <text x="1068" y="302" font-family="Arial, Helvetica, sans-serif" font-size="31">💗</text>
+    <text x="1068" y="344" font-family="Georgia, serif" font-size="25" font-weight="700" fill="#6f485c">Community Starter</text>
+    <text x="1068" y="384" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#b76086">$50</text>
+    <text x="1068" y="416" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#7d6470">Select woman-owned, Black-owned,</text>
+    <text x="1068" y="438" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#7d6470">or animal-centered</text>
+    <text x="1068" y="460" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#7d6470">small businesses</text>
+  </g>
+
+  <rect x="65" y="550" width="1270" height="320" rx="34" fill="url(#support)" stroke="#e3d6df"/>
+  <text x="100" y="602" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#95677d" letter-spacing="2.5">SUPPORT &amp; MAINTENANCE</text>
+  <text x="100" y="645" font-family="Georgia, serif" font-size="34" font-weight="700" fill="#4d3f48">Keep your website polished and moving.</text>
+
+  <g filter="url(#shadow)">
+    <rect x="100" y="685" width="360" height="165" rx="24" fill="#fff"/>
+    <text x="126" y="726" font-family="Arial, Helvetica, sans-serif" font-size="28">🔧</text>
+    <text x="126" y="760" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#4d3f48">Hourly Support</text>
+    <text x="126" y="795" font-family="Georgia, serif" font-size="27" font-weight="700" fill="#b76086">$15/hour</text>
+    <text x="126" y="824" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#74656d">Fixes · updates · troubleshooting</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="520" y="685" width="360" height="165" rx="24" fill="#fff"/>
+    <text x="546" y="726" font-family="Arial, Helvetica, sans-serif" font-size="28">✨</text>
+    <text x="546" y="760" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#4d3f48">Design &amp; Develop Pack</text>
+    <text x="546" y="795" font-family="Georgia, serif" font-size="27" font-weight="700" fill="#9b6684">from $75</text>
+    <text x="546" y="824" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#74656d">Page · redesign · feature · cleanup</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="940" y="670" width="360" height="180" rx="24" fill="#4d3f48"/>
+    <text x="966" y="711" font-family="Arial, Helvetica, sans-serif" font-size="28">💗</text>
+    <text x="966" y="745" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#fffaf0">Maintenance</text>
+    <text x="966" y="780" font-family="Georgia, serif" font-size="27" font-weight="700" fill="#f3c8d9">$100/month</text>
+    <text x="966" y="809" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#f1e7ec">3 small fixes + 1 small feature/month</text>
+    <text x="966" y="833" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#f1e7ec">Rollover up to 6 fixes + 6 features</text>
   </g>
 </svg>
