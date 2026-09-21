@@ -14,7 +14,7 @@ I design and build polished, accessible websites that combine **distinctive visu
 
 💌 **Available For Freelance** [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:breyhanadickenson@gmail.com?subject=Web%20Design%20Project%20Inquiry)
 
-🌐 **[View Live Portfolio](https://breyhanaariel.github.io/web-designer/)**
+🌐 **[View Portfolio Microsite](https://breyhanaariel.github.io/web-designer/)**
 
 I take on focused short-term website work including landing pages, small-business websites, e-commerce storefronts, redesigns, responsive/accessibility cleanup, and SEO-minded content structure.
 
@@ -148,7 +148,7 @@ GitHub Actions verifies dependency installation, linting, TypeScript, and produc
 
 My portfolio is intentionally separated by specialty so each discipline can tell a focused story while still showing how my design and development skills connect.
 
-- 🎀 [UI/UX Designer](https://github.com/breyhanaariel/ui-ux-designer) — product design, research, flows, design systems, prototyping, and developer handoff
-- 💻 [Front-End Developer](https://github.com/breyhanaariel/front-end-developer) — React, Next.js, TypeScript, APIs, state management, testing, accessibility, and measured performance
+- 🎀 [UI/UX Designer](https://breyhanaariel.github.io/ui-ux-designer/) — product design, research, flows, design systems, prototyping, and developer handoff
+- 💻 [Front-End Developer](https://breyhanaariel.github.io/front-end-developer/) — React, Next.js, TypeScript, APIs, state management, testing, accessibility, and measured performance
 - 🌐 **Web Designer** — responsive websites, redesigns, e-commerce, SEO/accessibility fundamentals, and business-focused client work
-- 🎨 [Graphic Designer](https://github.com/breyhanaariel/graphic-designer) — brand identity, campaign design, marketing assets, print, and motion
+- 🎨 [Graphic Designer](https://breyhanaariel.github.io/graphic-designer/) — brand identity, campaign design, marketing assets, print, and motion
