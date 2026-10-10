@@ -1,6 +1,6 @@
 # 🎀 Brianna Dickenson 🎀
 
-## **Web Designer | Responsive Websites · Brand-Led Digital Experiences**
+## Web Designer · Website Design · E-Commerce Design
 
 I design and build polished, accessible websites that combine **distinctive visual direction** with clear content hierarchy, responsive behavior, business goals, SEO/accessibility fundamentals, and production-ready implementation.
 
@@ -8,25 +8,19 @@ I design and build polished, accessible websites that combine **distinctive visu
 
 ---
 
-## 💌 Work With Me
+## 💌 Hire Me
 
-🕓 **Seeking Full Time Remote Position**  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianna-dickenson-9555515b)
+🕓 **Seeking Full-Time Remote Position** · 💌 **Available for Freelance**
 
-💌 **Available For Freelance** [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:breyhanadickenson@gmail.com?subject=Web%20Design%20Project%20Inquiry)
+🌐 **[View Live Portfolio](https://breyhanaariel.github.io/web-designer/)** · 💌 **[Hire Me / Project Inquiry](https://breyhanaariel.github.io/web-designer/#contact)**
 
-🌐 **[View Portfolio Microsite](https://breyhanaariel.github.io/web-designer/)**
+💼 [LinkedIn](https://www.linkedin.com/in/brianna-dickenson-9555515b) · [Email](mailto:breyhanadickenson@gmail.com?subject=Web%20Designer%20Inquiry)
 
 I take on focused short-term website work including landing pages, small-business websites, e-commerce storefronts, redesigns, responsive/accessibility cleanup, and SEO-minded content structure.
 
-[![Services & Packages](./site/assets/services-packages-cover.svg)](https://breyhanaariel.github.io/web-designer/services.html)
-
-🌷 **[View Services, Packages & Project Inquiry →](https://breyhanaariel.github.io/web-designer/services.html)**  
-💌 **[Send a Project Inquiry →](https://breyhanaariel.github.io/web-designer/services.html#inquiry)**  
-Prefer email? [breyhanadickenson@gmail.com](mailto:breyhanadickenson@gmail.com?subject=Web%20Design%20Project%20Inquiry)
-
 ---
 
-## 🧠 Core Stack
+## 🧠 Skills & Technologies
 
 **Web Design:** Responsive websites · landing pages · small-business websites · e-commerce · redesigns · reusable web systems  
 **Visual Direction:** Art direction · typography · color systems · layout hierarchy · brand expression · editorial web design  
@@ -104,7 +98,9 @@ Prefer email? [breyhanadickenson@gmail.com](mailto:breyhanadickenson@gmail.com?s
 
 ---
 
-## ♿ Accessibility, SEO & Website Quality
+## ✅ Quality & Evidence
+
+### Accessibility, SEO & Website Quality
 
 | Project | Accessibility Evidence | SEO / Search Evidence | Production Evidence |
 | --- | --- | --- | --- |
@@ -115,9 +111,7 @@ Prefer email? [breyhanadickenson@gmail.com](mailto:breyhanadickenson@gmail.com?s
 
 The showcase work targets **WCAG 2.2-informed AA design**. Formal third-party conformance is not claimed, and I do not invent Lighthouse scores or business metrics that have not been measured.
 
----
-
-## ✅ Production Quality
+### Production Quality
 
 The three coded showcase sites use the same repeatable quality checks:
 
@@ -144,11 +138,21 @@ GitHub Actions verifies dependency installation, linting, TypeScript, and produc
 
 ---
 
-## 🌸 Explore My Work
+## 🛠 Repository & Documentation
 
-My portfolio is intentionally separated by specialty so each discipline can tell a focused story while still showing how my design and development skills connect.
+Explore the project-specific folders and case studies linked in **Featured Work** for detailed design decisions, implementation notes, assets, and project status.
 
-- 🎀 [UI/UX Designer](https://breyhanaariel.github.io/ui-ux-designer/) — product design, research, flows, design systems, prototyping, and developer handoff
-- 💻 [Front-End Developer](https://breyhanaariel.github.io/front-end-developer/) — React, Next.js, TypeScript, APIs, state management, testing, accessibility, and measured performance
-- 🌐 **Web Designer** — responsive websites, redesigns, e-commerce, SEO/accessibility fundamentals, and business-focused client work
-- 🎨 [Graphic Designer](https://breyhanaariel.github.io/graphic-designer/) — brand identity, campaign design, marketing assets, print, and motion
+The portfolio microsite lives in [`site/`](./site/).
+
+---
+
+## 🌸 Portfolio Family
+
+My portfolios are organized by specialty. Explore the live microsites below:
+
+- 💻 [Front-End Developer](https://breyhanaariel.github.io/front-end-developer/)
+- 🎀 [UI/UX Designer](https://breyhanaariel.github.io/ui-ux-designer/)
+- 🌐 **Web Designer (current portfolio)**
+- 🎨 [Graphic Designer](https://breyhanaariel.github.io/graphic-designer/)
+- 📱 [Mobile Application Developer](https://breyhanaariel.github.io/mobile-app-developer/)
+- 🤖 [AI Automation Specialist](https://breyhanaariel.github.io/ai-automation-specialist/)
