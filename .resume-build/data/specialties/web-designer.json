@@ -1,0 +1,20 @@
+{
+  "title": "Web Designer",
+  "accent": "#B38D54",
+  "summary": "Web designer focused on responsive websites, visual hierarchy, brand-oriented layouts, accessibility and conversion-friendly user experiences.",
+  "skills": "Responsive web design · Figma · Typography · HTML5 · CSS3 · Next.js · React · Accessibility · SEO fundamentals",
+  "experience": [
+    "Designed and customized responsive WordPress website layouts.",
+    "Supported branding, website usability, debugging and cross-browser quality checks."
+  ],
+  "projects": [
+    {
+      "name": "DaisyDesk — SaaS Marketing Website",
+      "details": "Designed and built a responsive independent SaaS marketing concept with product storytelling, pricing hierarchy and accessible interactions."
+    },
+    {
+      "name": "Poppy & Paws — Concept Website Redesign",
+      "details": "Created a fictional small-business before/after redesign emphasizing clear services, mobile hierarchy, accessibility and inquiry paths."
+    }
+  ]
+}
